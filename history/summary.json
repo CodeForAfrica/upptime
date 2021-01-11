@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "GMMP",
     "url": "https://gmmp.dev.codeforafrica.org/",
     "icon": "https://favicons.githubusercontent.com/gmmp.dev.codeforafrica.org",
@@ -28,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1008,
-    "timeWeek": 1008,
-    "timeMonth": 1008,
-    "timeYear": 1008,
+    "time": 1058,
+    "timeDay": 1058,
+    "timeWeek": 1058,
+    "timeMonth": 1058,
+    "timeYear": 1058,
     "dailyMinutesDown": {}
   }
 ]
