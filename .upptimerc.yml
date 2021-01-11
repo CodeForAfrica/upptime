@@ -4,5 +4,29 @@ repo: upptime
 # Add your sites here
 sites:
   - name: GMMP
-    url: https://gmmp.dev.codeforafrica.org/
- 
+    url: https://app.gmmp.ngo
+
+  - name: sensorsAFRICA API
+    url: https://api.sensors.africa/docs
+  
+  - name: sensorsAFRICA
+    url: https://sensors.africa/
+  
+  - name: Civic SIGNAL
+    url: https://civicsignal.africa/
+  
+  - name: Civic SIGNAL Sources
+    url: https://sources.civicsignal.africa/
+    
+  - name: Civic SIGNAL Explorer
+    url: https://explorer.civicsignal.africa/
+  
+  - name: Civic SIGNAL Topics
+    url: https://topics.civicsignal.africa/
+  
+  - name: Source Africa
+    url:  https://sourceafrica.net/
+  
+  - name: Source Africa
+    url:  https://sourceafrica.net/
+  
