@@ -3,8 +3,6 @@ repo: upptime
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: GMMP
     url: https://gmmp.dev.codeforafrica.org/
  
