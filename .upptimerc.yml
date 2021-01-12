@@ -27,6 +27,26 @@ sites:
   - name: Source Africa
     url:  https://sourceafrica.net/
   
-  - name: Source Africa
-    url:  https://sourceafrica.net/
+  - name: Open AFRICA
+    url:  https://openafrica.net/
   
+  - name: Connected AFRICA
+    url:  https://data.connectedafrica.net/  
+  
+  - name: Connected AFRICA
+    url:  https://data.connectedafrica.net/
+  
+  - name: Hurumap
+    url:  https://hurumap.org/
+      
+  - name: Kenya Hurumap
+    url:  https://kenya.hurumap.org/
+    
+  - name: Tanzania Hurumap
+    url:  https://tanzania.hurumap.org/
+
+  - name: Uganda Hurumap
+    url:  https://uganda.hurumap.org/
+    
+  - name: Dominion AFRICA
+    url:  https://dominion.africa/
