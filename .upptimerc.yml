@@ -36,6 +36,7 @@ sites:
 
   - name: GMMP
     url: https://app.gmmp.ngo
+    icon: https://app.gmmp.ngo/static/favicon.ico 
 
   - name: HURUGraphQL
     url: https://graphql.hurumap.org/graphiql
