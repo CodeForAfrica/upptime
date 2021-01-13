@@ -74,7 +74,8 @@ sites:
     url:  https://open.africa
 
   - name: outbreakAFRICA
-    url:  https://covid19.dev.hurumap.org
+    url: https://dev.outbreak.africa
+    icon: https://dev.outbreak.africa/favicon.ico
   
   - name: Pesayetu
     url:  https://pesayetu.pesacheck.org
