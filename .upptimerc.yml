@@ -1,4 +1,4 @@
-owner: CodeForAfrica 
+owner: CodeForAfrica
 repo: upptime
 
 # Add your sites here
@@ -18,7 +18,7 @@ sites:
   - name: civicSIGNAL
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
-    
+
   - name: civicSIGNAL - Explorer
     url: https://explorer.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
@@ -30,77 +30,78 @@ sites:
   - name: civicSIGNAL - Topics
     url: https://topics.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
-  
+
   - name: connectedAFRICA
-    url:  https://data.connectedafrica.net  
-    
+    url: https://data.connectedafrica.net
+    icon: https://investigativecenters.org/static/img/logo.jpg
+
   - name: DOMINION
-    url:  https://dominion.africa
+    url: https://dominion.africa
     icon: https://dominion.africa/favicon.ico
 
   - name: GMMP
     url: https://app.gmmp.ngo
-    icon: https://app.gmmp.ngo/static/favicon.ico 
+    icon: https://app.gmmp.ngo/static/favicon.ico
 
   - name: HURUGraphQL
     url: https://graphql.hurumap.org/graphiql
 
   - name: HURUmap
-    url:  https://hurumap.org
+    url: https://hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
-      
+
   - name: HURUmap - Kenya
-    url:  https://kenya.hurumap.org
+    url: https://kenya.hurumap.org
     icon: https://kenya.hurumap.org/static/img/logo-white.png
-    
+
   - name: HURUmap - Tanzania
-    url:  https://tanzania.hurumap.org
+    url: https://tanzania.hurumap.org
     icon: https://tanzania.hurumap.org/static/img/logo-white.png
 
   - name: HURUmap - Nigeria
-    url:  https://nigeria.hurumap.org
+    url: https://nigeria.hurumap.org
     icon: https://nigeria.hurumap.org/static/img/logo-white.png
 
   - name: HURUmap - Uganda
-    url:  https://uganda.hurumap.org
+    url: https://uganda.hurumap.org
     icon: https://uganda.hurumap.org/static/img/logo-white.png
 
   - name: HURUmap - Zambia
-    url:  https://zambia.hurumap.org
+    url: https://zambia.hurumap.org
     icon: https://zambia.hurumap.org/static/img/logo-white.png
-  
+
   - name: HURUmap - Zimbabwe
-    url:  https://zimbabwe.hurumap.org
+    url: https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
 
   - name: MAPIT
-    url:  https://mapit.hurumap.org
+    url: https://mapit.hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
-  
+
   - name: openAFRICA
-    url:  https://open.africa
-    icon: https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png 
+    url: https://open.africa
+    icon: https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png
 
   - name: outbreakAFRICA
     url: https://dev.outbreak.africa
     icon: https://dev.outbreak.africa/favicon.ico
-  
-  - name: Pesayetu
-    url:  https://pesayetu.pesacheck.org
+
+  - name: PesaYetu
+    url: https://pesayetu.pesacheck.org
     icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
   - name: sensors.AFRICA
     url: https://sensors.africa
-    icon: https://sensors.africa/favicons/green/favicon.ico 
+    icon: https://sensors.africa/favicons/green/favicon.ico
 
   - name: sensors.AFRICA - API
-    url:  https://api.sensors.africa/docs
-    icon: https://sensors.africa/favicons/green/favicon.ico 
+    url: https://api.sensors.africa/docs
+    icon: https://sensors.africa/favicons/green/favicon.ico
 
   - name: sourceAFRICA
-    url:  https://sourceafrica.net
+    url: https://sourceafrica.net
 
 status-website:
   cname: https://status.codeforafrica.org
   name: CfAFRICA Upptime
-  logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4 
+  logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4
