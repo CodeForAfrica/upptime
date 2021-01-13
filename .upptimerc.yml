@@ -91,5 +91,6 @@ sites:
     url:  https://sourceafrica.net
 
 status-website:
+  cname: https://status.codeforafrica.org
   name: CfAFRICA Upptime
   logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4 
