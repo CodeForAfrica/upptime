@@ -7,15 +7,15 @@ sites:
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
     
-  - name: civicSIGNAL | Explorer
+  - name: civicSIGNAL - Explorer
     url: https://explorer.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
 
-  - name: civicSIGNAL | Sources
+  - name: civicSIGNAL - Sources
     url: https://sources.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
 
-  - name: civicSIGNAL | Topics
+  - name: civicSIGNAL - Topics
     url: https://topics.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
   
@@ -31,23 +31,23 @@ sites:
   - name: HURUmap
     url:  https://hurumap.org
       
-  - name: HURUmap | Kenya
+  - name: HURUmap - Kenya
     url:  https://kenya.hurumap.org
     icon: https://kenya.hurumap.org/static/img/logo-white.png
     
-  - name: HURUmap | Tanzania
+  - name: HURUmap - Tanzania
     url:  https://tanzania.hurumap.org
     icon: https://tanzania.hurumap.org/static/img/logo-white.png
 
-  - name: HURUmap | Uganda
+  - name: HURUmap - Uganda
     url:  https://uganda.hurumap.org
     icon: https://uganda.hurumap.org/static/img/logo-white.png
 
-  - name: HURUmap | Zambia
+  - name: HURUmap - Zambia
     url:  https://zambia.hurumap.org
     icon: https://zambia.hurumap.org/static/img/logo-white.png
   
-  - name: HURUmap | Zimbabwe
+  - name: HURUmap - Zimbabwe
     url:  https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
   
@@ -57,7 +57,7 @@ sites:
   - name: sensors.AFRICA
     url: https://sensors.africa
 
-  - name: sensors.AFRICA | API
+  - name: sensors.AFRICA - API
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicon.ico
 
