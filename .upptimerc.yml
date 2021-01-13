@@ -42,6 +42,10 @@ sites:
     url:  https://tanzania.hurumap.org
     icon: https://tanzania.hurumap.org/static/img/logo-white.png
 
+  - name: HURUmap - Nigeria
+    url:  https://nigeria.hurumap.org
+    icon: https://nigeria.hurumap.org/static/img/logo-white.png
+
   - name: HURUmap - Uganda
     url:  https://uganda.hurumap.org
     icon: https://uganda.hurumap.org/static/img/logo-white.png
@@ -62,6 +66,10 @@ sites:
 
   - name: outbreakAFRICA
     url:  https://covid19.dev.hurumap.org
+  
+  - name: Pesayetu
+    url:  https://pesayetu.pesacheck.org
+    icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
   - name: sensors.AFRICA
     url: https://sensors.africa
