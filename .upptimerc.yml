@@ -30,6 +30,9 @@ sites:
   
   - name: HURUmap
     url:  https://hurumap.org
+
+  - name: GraphQL HURUmap
+    url: https://graphql.hurumap.org
       
   - name: HURUmap - Kenya
     url:  https://kenya.hurumap.org
@@ -50,15 +53,21 @@ sites:
   - name: HURUmap - Zimbabwe
     url:  https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
+
+  - name: MAPIT
+    url:  https://mapit.hurumap.org
   
   - name: openAFRICA
     url:  https://open.africa
+
+  - name: outbreakAFRICA
+    url:  https://covid19.dev.hurumap.org
 
   - name: sensors.AFRICA
     url: https://sensors.africa
 
   - name: sensors.AFRICA - API
-    url: https://api.sensors.africa/docs
+    url:  https://api.sensors.africa/docs
     icon: https://sensors.africa/favicon.ico
 
   - name: sourceAFRICA
