@@ -82,10 +82,11 @@ sites:
 
   - name: sensors.AFRICA
     url: https://sensors.africa
+    icon: https://sensors.africa/favicons/green/favicon.ico 
 
   - name: sensors.AFRICA - API
     url:  https://api.sensors.africa/docs
-    icon: https://sensors.africa/favicon.ico
+    icon: https://sensors.africa/favicons/green/favicon.ico 
 
   - name: sourceAFRICA
     url:  https://sourceafrica.net
