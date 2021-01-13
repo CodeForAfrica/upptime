@@ -32,7 +32,7 @@ sites:
     url:  https://hurumap.org
 
   - name: GraphQL HURUmap
-    url: https://graphql.hurumap.org/graphql
+    url: https://graphql.hurumap.org/graphiql
       
   - name: HURUmap - Kenya
     url:  https://kenya.hurumap.org
