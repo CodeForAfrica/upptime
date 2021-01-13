@@ -3,50 +3,67 @@ repo: upptime
 
 # Add your sites here
 sites:
+  - name: civicSIGNAL
+    url: https://civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+    
+  - name: civicSIGNAL | Explorer
+    url: https://explorer.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: Civic SIGNAL | Sources
+    url: https://sources.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: civicSIGNAL | Topics
+    url: https://topics.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+  
+  - name: connectedAFRICA
+    url:  https://data.connectedafrica.net  
+    
+  - name: DOMINION
+    url:  https://dominion.africa
+  
   - name: GMMP
     url: https://app.gmmp.ngo
-
-  - name: sensorsAFRICA API
-    url: https://api.sensors.africa/docs
   
-  - name: sensorsAFRICA
-    url: https://sensors.africa/
-  
-  - name: Civic SIGNAL
-    url: https://civicsignal.africa/
-  
-  - name: Civic SIGNAL Sources
-    url: https://sources.civicsignal.africa/
-    
-  - name: Civic SIGNAL Explorer
-    url: https://explorer.civicsignal.africa/
-  
-  - name: Civic SIGNAL Topics
-    url: https://topics.civicsignal.africa/
-  
-  - name: Source Africa
-    url:  https://sourceafrica.net/
-  
-  - name: Open AFRICA
-    url:  https://openafrica.net/
-  
-  - name: Connected AFRICA
-    url:  https://data.connectedafrica.net/  
-  
-  - name: Connected AFRICA
-    url:  https://data.connectedafrica.net/
-  
-  - name: Hurumap
-    url:  https://hurumap.org/
+  - name: HURUmap
+    url:  https://hurumap.org
       
-  - name: Kenya Hurumap
-    url:  https://kenya.hurumap.org/
+  - name: HURUmap | Kenya
+    url:  https://kenya.hurumap.org
+    icon: https://kenya.hurumap.org/static/img/logo-white.png
     
-  - name: Tanzania Hurumap
-    url:  https://tanzania.hurumap.org/
+  - name: HURUmap | Tanzania
+    url:  https://tanzania.hurumap.org
+    icon: https://tanzania.hurumap.org/static/img/logo-white.png
 
-  - name: Uganda Hurumap
-    url:  https://uganda.hurumap.org/
-    
-  - name: Dominion AFRICA
-    url:  https://dominion.africa/
+  - name: HURUmap | Uganda
+    url:  https://uganda.hurumap.org
+    icon: https://uganda.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap | Zambia
+    url:  https://zambia.hurumap.org
+    icon: https://zambia.hurumap.org/static/img/logo-white.png
+  
+  - name: HURUmap | Zimbabwe
+    url:  https://zimbabwe.hurumap.org
+    icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
+  
+  - name: openAFRICA
+    url:  https://open.africa
+
+  - name: sensors.AFRICA
+    url: https://sensors.africa
+
+  - name: sensors.AFRICA | API
+    url: https://api.sensors.africa/docs
+    icon: https://sensors.africa/favicon.ico
+
+  - name: sourceAFRICA
+    url:  https://sourceafrica.net
+
+status-website:
+  name: CfAFRICA Upptime
+  logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4 
