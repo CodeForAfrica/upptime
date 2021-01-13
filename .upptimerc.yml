@@ -5,12 +5,15 @@ repo: upptime
 sites:
   - name: AlertME - Kenya
     url: https://greenalert.codeforkenya.org
+    icon: https://greenalert.codeforkenya.org/assets/img/favicon.ico
 
   - name: AlertME - Nigeria
     url: https://yamayama.codefornigeria.org
+    icon: https://yamayama.codefornigeria.org/assets/img/favicon.ico
 
   - name: AlertME - South Africa
     url: https://greenalert.oxpeckers.org
+    icon: https://greenalert.oxpeckers.org/assets/img/favicon.ico
 
   - name: civicSIGNAL
     url: https://civicsignal.africa
