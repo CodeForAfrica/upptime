@@ -3,6 +3,15 @@ repo: upptime
 
 # Add your sites here
 sites:
+  - name: AlertME - Kenya
+    url: https://greenalert.codeforkenya.org
+
+  - name: AlertME - Nigeria
+    url: https://yamayama.codefornigeria.org
+
+  - name: AlertME - South Africa
+    url: https://greenalert.oxpeckers.org
+
   - name: civicSIGNAL
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
@@ -24,15 +33,15 @@ sites:
     
   - name: DOMINION
     url:  https://dominion.africa
-  
-  - name: GMMP
-    url: https://app.gmmp.ngo
-  
-  - name: HURUmap
-    url:  https://hurumap.org
 
   - name: GraphQL HURUmap
     url: https://graphql.hurumap.org/graphiql
+  
+  - name: GMMP
+    url: https://app.gmmp.ngo
+
+  - name: HURUmap
+    url:  https://hurumap.org
       
   - name: HURUmap - Kenya
     url:  https://kenya.hurumap.org
