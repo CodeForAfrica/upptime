@@ -36,6 +36,7 @@ sites:
     
   - name: DOMINION
     url:  https://dominion.africa
+    icon: https://dominion.africa/favicon.ico
 
   - name: GMMP
     url: https://app.gmmp.ngo
