@@ -34,14 +34,15 @@ sites:
   - name: DOMINION
     url:  https://dominion.africa
 
-  - name: GraphQL HURUmap
-    url: https://graphql.hurumap.org/graphiql
-  
   - name: GMMP
     url: https://app.gmmp.ngo
 
+  - name: HURUGraphQL
+    url: https://graphql.hurumap.org/graphiql
+
   - name: HURUmap
     url:  https://hurumap.org
+    icon: https://hurumap.org/static/img/icons/favicon.ico
       
   - name: HURUmap - Kenya
     url:  https://kenya.hurumap.org
@@ -69,6 +70,7 @@ sites:
 
   - name: MAPIT
     url:  https://mapit.hurumap.org
+    icon: https://hurumap.org/static/img/icons/favicon.ico
   
   - name: openAFRICA
     url:  https://open.africa
