@@ -3,6 +3,15 @@ repo: upptime
 
 # Add your sites here
 sites:
+  - name: AlertME - Kenya
+    url: https://greenalert.codeforkenya.org
+
+  - name: AlertME - Nigeria
+    url: https://yamayama.codefornigeria.org
+
+  - name: AlertME - South Africa
+    url: https://greenalert.oxpeckers.org
+
   - name: civicSIGNAL
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
@@ -24,10 +33,13 @@ sites:
     
   - name: DOMINION
     url:  https://dominion.africa
+
+  - name: GraphQL HURUmap
+    url: https://graphql.hurumap.org/graphiql
   
   - name: GMMP
     url: https://app.gmmp.ngo
-  
+
   - name: HURUmap
     url:  https://hurumap.org
       
@@ -38,6 +50,10 @@ sites:
   - name: HURUmap - Tanzania
     url:  https://tanzania.hurumap.org
     icon: https://tanzania.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Nigeria
+    url:  https://nigeria.hurumap.org
+    icon: https://nigeria.hurumap.org/static/img/logo-white.png
 
   - name: HURUmap - Uganda
     url:  https://uganda.hurumap.org
@@ -50,15 +66,25 @@ sites:
   - name: HURUmap - Zimbabwe
     url:  https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
+
+  - name: MAPIT
+    url:  https://mapit.hurumap.org
   
   - name: openAFRICA
     url:  https://open.africa
+
+  - name: outbreakAFRICA
+    url:  https://covid19.dev.hurumap.org
+  
+  - name: Pesayetu
+    url:  https://pesayetu.pesacheck.org
+    icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
   - name: sensors.AFRICA
     url: https://sensors.africa
 
   - name: sensors.AFRICA - API
-    url: https://api.sensors.africa/docs
+    url:  https://api.sensors.africa/docs
     icon: https://sensors.africa/favicon.ico
 
   - name: sourceAFRICA
