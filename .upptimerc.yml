@@ -90,6 +90,10 @@ sites:
     url: https://pesayetu.pesacheck.org
     icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
+  - name: genderGap
+    url: https://gendergap.africa/
+    icon: https://gendergap.africa/images/logo-white.svg
+
   - name: sensors.AFRICA
     url: https://sensors.africa
     icon: https://sensors.africa/favicons/green/favicon.ico
@@ -98,8 +102,42 @@ sites:
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicons/green/favicon.ico
 
+  - name: sensors.AFRICA - v2Map
+    url: https://v2.map.aq.sensors.africa/#4/-4.46/19.54
+    icon: https://sensors.africa/favicons/green/favicon.ico
+
+  - name: seaSensors.AFRICA - Coming Soon
+    url: https://seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA
+    url: https://alpha.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA - Map
+    url: https://map.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: trafficking.Africa - Coming Soon
+    url: https://trafficking.africa/
+
   - name: sourceAFRICA
     url: https://sourceafrica.net
+
+  - name: promiseTracker
+    url: https://promisetracker.dev.codeforafrica.org/
+
+  - name: innovateAfrica
+    url: https://innovateafrica.fund/
+    icon: http://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
+
+  - name: pfca
+    url: https://dev.pfca.africa/
+    icon: https://dev.pfca.africa/wp-content/uploads/sites/3/2020/12/Pfca-logo-1.png
+
+  - name: investigateAfrica
+    url: https://investigate.africa/
+    
 
 status-website:
   cname: status.codeforafrica.org
