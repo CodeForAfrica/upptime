@@ -141,10 +141,6 @@ sites:
   - name: trafficking.Africa - Coming Soon
     url: https://trafficking.africa/
 
-
-  
-    
-
 status-website:
   cname: status.codeforafrica.org
   name: CfAFRICA Upptime
