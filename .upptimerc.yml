@@ -3,6 +3,12 @@ repo: upptime
 
 # Add your sites here
 sites:
+  - name: academy.Africa
+    url: https://academy.africa/
+
+  - name: africaCommons
+    url: https://commons.africa/
+
   - name: AlertME - Kenya
     url: https://greenalert.codeforkenya.org
     icon: https://greenalert.codeforkenya.org/assets/img/favicon.ico
@@ -39,7 +45,7 @@ sites:
     url: https://dominion.africa
     icon: https://dominion.africa/favicon.ico
   
-  - name: GenderGap
+  - name: GenderGap.AFRICA
     url: https://gendergap.africa/
     icon: https://gendergap.africa/images/logo-white.svg
 
@@ -84,6 +90,9 @@ sites:
 
   - name: investigateAfrica
     url: https://investigate.africa/
+
+  - name: LivingWage.KE
+    url: https://livingwage.pd.co.ke/
 
   - name: MAPIT
     url: https://mapit.hurumap.org
@@ -137,6 +146,13 @@ sites:
 
   - name: sourceAFRICA
     url: https://sourceafrica.net
+
+  - name: stormWatch.sensors.AFRICA- Coming Soon
+    url: https://stormwatch.sensors.africa/
+    icon: https://stormwatch.sensors.africa/images/logo.png
+
+  - name: TaxClock.Kenya
+    url: https://taxclock.pesacheck.org/
 
   - name: trafficking.Africa - Coming Soon
     url: https://trafficking.africa/
