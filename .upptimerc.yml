@@ -104,6 +104,21 @@ sites:
   - name: promiseTracker
     url: https://promisetracker.dev.codeforafrica.org/
 
+  - name: innovateAfrica
+    url: https://innovateafrica.fund/
+    icon: http://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
+
+  - name: pfca
+    url: https://dev.pfca.africa/
+    icon: https://dev.pfca.africa/wp-content/uploads/sites/3/2020/12/Pfca-logo-1.png
+
+  - name: investigateAfrica
+    url: https://investigate.africa/
+    
+
+
+
+
 
 status-website:
   cname: status.codeforafrica.org
