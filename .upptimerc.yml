@@ -90,6 +90,10 @@ sites:
     url: https://pesayetu.pesacheck.org
     icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
+  - name: genderGap
+    url: https://gendergap.africa/
+    icon: https://gendergap.africa/images/logo-white.svg
+
   - name: sensors.AFRICA
     url: https://sensors.africa
     icon: https://sensors.africa/favicons/green/favicon.ico
