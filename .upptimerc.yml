@@ -98,8 +98,24 @@ sites:
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicons/green/favicon.ico
 
-  - name: seaSensors
+  - name: sensors.AFRICA - v2Map
+    url: https://v2.map.aq.sensors.africa/#4/-4.46/19.54
+    icon: https://sensors.africa/favicons/green/favicon.ico
+
+  - name: seaSensors.AFRICA - Coming Soon
+    url: https://seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA
     url: https://alpha.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA - Map
+    url: https://map.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: trafficking.Africa - Coming Soon
+    url: https://trafficking.africa/
 
   - name: sourceAFRICA
     url: https://sourceafrica.net
@@ -118,7 +134,6 @@ sites:
   - name: investigateAfrica
     url: https://investigate.africa/
     
-
 
 status-website:
   cname: status.codeforafrica.org
