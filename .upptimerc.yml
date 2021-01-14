@@ -98,6 +98,9 @@ sites:
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicons/green/favicon.ico
 
+  - name: seaSensors
+    url: https://alpha.seasensors.africa/
+
   - name: sourceAFRICA
     url: https://sourceafrica.net
 
@@ -115,9 +118,6 @@ sites:
   - name: investigateAfrica
     url: https://investigate.africa/
     
-
-
-
 
 
 status-website:
