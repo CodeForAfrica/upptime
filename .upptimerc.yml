@@ -101,6 +101,10 @@ sites:
   - name: sourceAFRICA
     url: https://sourceafrica.net
 
+  - name: promiseTracker
+    url: https://promisetracker.dev.codeforafrica.org/
+
+
 status-website:
   cname: status.codeforafrica.org
   name: CfAFRICA Upptime
