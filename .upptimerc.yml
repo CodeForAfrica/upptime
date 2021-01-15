@@ -3,6 +3,12 @@ repo: upptime
 
 # Add your sites here
 sites:
+  - name: academy.Africa
+    url: https://academy.africa/
+
+  - name: africaCommons
+    url: https://commons.africa/
+
   - name: AlertME - Kenya
     url: https://greenalert.codeforkenya.org
     icon: https://greenalert.codeforkenya.org/assets/img/favicon.ico
@@ -38,6 +44,10 @@ sites:
   - name: DOMINION
     url: https://dominion.africa
     icon: https://dominion.africa/favicon.ico
+  
+  - name: GenderGap.AFRICA
+    url: https://gendergap.africa/
+    icon: https://gendergap.africa/images/logo-white.svg
 
   - name: GMMP
     url: https://app.gmmp.ngo
@@ -74,9 +84,22 @@ sites:
     url: https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
 
+  - name: innovateAfrica
+    url: https://innovateafrica.fund/
+    icon: http://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
+
+  - name: investigateAfrica
+    url: https://investigate.africa/
+
+  - name: LivingWage.KE
+    url: https://livingwage.pd.co.ke/
+
   - name: MAPIT
     url: https://mapit.hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
+
+  - name: MaternalFigures
+    url: https://dev.maternalfigures.com/
 
   - name: openAFRICA
     url: https://open.africa
@@ -90,9 +113,12 @@ sites:
     url: https://pesayetu.pesacheck.org
     icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
 
-  - name: genderGap
-    url: https://gendergap.africa/
-    icon: https://gendergap.africa/images/logo-white.svg
+  - name: Pfca
+    url: https://dev.pfca.africa/
+    icon: https://dev.pfca.africa/wp-content/uploads/sites/3/2020/12/Pfca-logo-1.png
+
+  - name: PromiseTracker
+    url: https://promisetracker.dev.codeforafrica.org/
 
   - name: sensors.AFRICA
     url: https://sensors.africa
@@ -118,26 +144,18 @@ sites:
     url: https://map.seasensors.africa/
     icon: https://seasensors.africa/images/logo-white-square.png
 
-  - name: trafficking.Africa - Coming Soon
-    url: https://trafficking.africa/
-
   - name: sourceAFRICA
     url: https://sourceafrica.net
 
-  - name: promiseTracker
-    url: https://promisetracker.dev.codeforafrica.org/
+  - name: stormWatch.sensors.AFRICA- Coming Soon
+    url: https://stormwatch.sensors.africa/
+    icon: https://stormwatch.sensors.africa/images/logo.png
 
-  - name: innovateAfrica
-    url: https://innovateafrica.fund/
-    icon: http://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
+  - name: TaxClock.Kenya
+    url: https://taxclock.pesacheck.org/
 
-  - name: pfca
-    url: https://dev.pfca.africa/
-    icon: https://dev.pfca.africa/wp-content/uploads/sites/3/2020/12/Pfca-logo-1.png
-
-  - name: investigateAfrica
-    url: https://investigate.africa/
-    
+  - name: trafficking.Africa - Coming Soon
+    url: https://trafficking.africa/
 
 status-website:
   cname: status.codeforafrica.org
