@@ -238,19 +238,19 @@
     "url": "https://dominion.africa",
     "icon": "https://dominion.africa/favicon.ico",
     "slug": "dominion",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 4069,
+    "timeDay": 4069,
+    "timeWeek": 4069,
+    "timeMonth": 4069,
+    "timeYear": 4069,
     "dailyMinutesDown": {
-      "2023-07-17": 323
+      "2023-07-17": 413
     }
   },
   {
@@ -547,18 +547,18 @@
     "icon": "https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png",
     "slug": "open-africa",
     "status": "down",
-    "uptime": "39.85%",
-    "uptimeDay": "39.85%",
-    "uptimeWeek": "39.85%",
-    "uptimeMonth": "39.85%",
-    "uptimeYear": "39.85%",
+    "uptime": "1.61%",
+    "uptimeDay": "1.61%",
+    "uptimeWeek": "1.61%",
+    "uptimeMonth": "1.61%",
+    "uptimeYear": "1.61%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 2
+      "2023-07-17": 92
     }
   },
   {
@@ -567,18 +567,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bulk.openafrica.net.ico",
     "slug": "open-africa-api",
     "status": "down",
-    "uptime": "68.37%",
-    "uptimeDay": "68.37%",
-    "uptimeWeek": "68.37%",
-    "uptimeMonth": "68.37%",
-    "uptimeYear": "68.37%",
+    "uptime": "1.64%",
+    "uptimeDay": "1.64%",
+    "uptimeWeek": "1.64%",
+    "uptimeMonth": "1.64%",
+    "uptimeYear": "1.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-17": 1
+      "2023-07-17": 90
     }
   },
   {
