@@ -250,7 +250,7 @@
     "timeMonth": 2679,
     "timeYear": 2679,
     "dailyMinutesDown": {
-      "2023-07-17": 420
+      "2023-07-17": 413
     }
   },
   {
@@ -546,19 +546,19 @@
     "url": "https://open.africa",
     "icon": "https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png",
     "slug": "open-africa",
-    "status": "up",
-    "uptime": "24.19%",
-    "uptimeDay": "24.19%",
-    "uptimeWeek": "24.19%",
-    "uptimeMonth": "24.19%",
-    "uptimeYear": "24.19%",
+    "status": "down",
+    "uptime": "34.22%",
+    "uptimeDay": "34.22%",
+    "uptimeWeek": "34.22%",
+    "uptimeMonth": "34.22%",
+    "uptimeYear": "34.22%",
     "time": 578,
     "timeDay": 578,
     "timeWeek": 578,
     "timeMonth": 578,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2023-07-17": 231
+      "2023-07-17": 233
     }
   },
   {
@@ -566,19 +566,19 @@
     "url": "https://bulk.openafrica.net/api",
     "icon": "https://icons.duckduckgo.com/ip3/bulk.openafrica.net.ico",
     "slug": "open-africa-api",
-    "status": "up",
-    "uptime": "27.69%",
-    "uptimeDay": "27.69%",
-    "uptimeWeek": "27.69%",
-    "uptimeMonth": "27.69%",
-    "uptimeYear": "27.69%",
+    "status": "down",
+    "uptime": "37.71%",
+    "uptimeDay": "37.71%",
+    "uptimeWeek": "37.71%",
+    "uptimeMonth": "37.71%",
+    "uptimeYear": "37.71%",
     "time": 604,
     "timeDay": 604,
     "timeWeek": 604,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-07-17": 220
+      "2023-07-17": 221
     }
   },
   {
@@ -605,18 +605,18 @@
     "icon": "https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png",
     "slug": "pesa-yetu",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "8.57%",
+    "uptimeDay": "8.57%",
+    "uptimeWeek": "8.57%",
+    "uptimeMonth": "8.57%",
+    "uptimeYear": "8.57%",
     "time": 1767,
     "timeDay": 1767,
     "timeWeek": 1767,
     "timeMonth": 1767,
     "timeYear": 1767,
     "dailyMinutesDown": {
-      "2023-07-17": 329
+      "2023-07-17": 322
     }
   },
   {
@@ -661,18 +661,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/promisetracker.dev.codeforafrica.org.ico",
     "slug": "promise-tracker",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "8.88%",
+    "uptimeDay": "8.88%",
+    "uptimeWeek": "8.88%",
+    "uptimeMonth": "8.88%",
+    "uptimeYear": "8.88%",
     "time": 1909,
     "timeDay": 1909,
     "timeWeek": 1909,
     "timeMonth": 1909,
     "timeYear": 1909,
     "dailyMinutesDown": {
-      "2023-07-17": 328
+      "2023-07-17": 321
     }
   },
   {
@@ -681,18 +681,18 @@
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "9.01%",
+    "uptimeDay": "9.01%",
+    "uptimeWeek": "9.01%",
+    "uptimeMonth": "9.01%",
+    "uptimeYear": "9.01%",
     "time": 1157,
     "timeDay": 1157,
     "timeWeek": 1157,
     "timeMonth": 1157,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2023-07-17": 327
+      "2023-07-17": 320
     }
   },
   {
@@ -863,18 +863,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/trolltracker.investigate.africa.ico",
     "slug": "troll-tracker",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "9.12%",
+    "uptimeDay": "9.12%",
+    "uptimeWeek": "9.12%",
+    "uptimeMonth": "9.12%",
+    "uptimeYear": "9.12%",
     "time": 5304,
     "timeDay": 5304,
     "timeWeek": 5304,
     "timeMonth": 5304,
     "timeYear": 5304,
     "dailyMinutesDown": {
-      "2023-07-17": 327
+      "2023-07-17": 320
     }
   },
   {
