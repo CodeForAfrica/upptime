@@ -1,31 +1,211 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CodeForAfrica
+repo: upptime
 
+# https://upptime.js.org/docs/configuration#endpoints
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: academy.AFRICA
+    url: https://academy.africa/
 
+  - name: commons.AFRICA
+    url: https://commons.africa/
+
+  - name: AlertME - Kenya
+    url: https://greenalert.codeforkenya.org
+    icon: https://greenalert.codeforkenya.org/assets/img/favicon.ico
+
+  - name: AlertME - Nigeria
+    url: https://yamayama.codefornigeria.org
+    icon: https://yamayama.codefornigeria.org/assets/img/favicon.ico
+
+  - name: AlertME - South Africa
+    url: https://greenalert.oxpeckers.org
+    icon: https://greenalert.oxpeckers.org/assets/img/favicon.ico
+
+  - name: civicSIGNAL
+    url: https://civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: civicSIGNAL - Explorer
+    url: https://explorer.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: civicSIGNAL - Sources
+    url: https://sources.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: civicSIGNAL - Topics
+    url: https://topics.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: Civic Tech Fund Africa
+    url: https://civictechfund.africa/
+
+  - name: connectedAFRICA
+    url: https://data.connectedafrica.net
+    icon: https://investigativecenters.org/static/img/logo.jpg
+  
+  - name: charterAFRICA
+    url: https://charter.africa
+    icon: https://charter.africa/images/charter-logo.svg
+
+  - name: DebunkBot
+    url: https://debunkbot.dev.pesacheck.org
+
+  - name: DOMINION
+    url: https://dominion.africa
+    icon: https://dominion.africa/favicon.ico
+    maxResponseTime: 60000
+
+  - name: FeedShield
+    url: https://feedshield.africa
+
+  - name: GenderGap.AFRICA
+    url: https://gendergap.africa/
+    icon: https://gendergap.africa/images/logo-white.svg
+
+  - name: HURUGraphQL
+    url: https://graphql.hurumap.org/graphiql
+
+  - name: HURUmap
+    url: https://hurumap.org
+    icon: https://hurumap.org/static/img/icons/favicon.ico
+    
+  - name: HURUmap NG
+    url: https://ng.hurumap.org
+
+  - name: HURUmap - Kenya
+    url: https://kenya.hurumap.org
+    icon: https://kenya.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Tanzania
+    url: https://tanzania.hurumap.org
+    icon: https://tanzania.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Nigeria
+    url: https://nigeria.hurumap.org
+    icon: https://nigeria.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Uganda
+    url: https://uganda.hurumap.org
+    icon: https://uganda.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Zambia
+    url: https://zambia.hurumap.org
+    icon: https://zambia.hurumap.org/static/img/logo-white.png
+
+  - name: HURUmap - Zimbabwe
+    url: https://zimbabwe.hurumap.org
+    icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
+
+  - name: innovateAFRICA
+    url: https://innovateafrica.fund/
+    icon: https://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
+
+  - name: investigate.AFRICA
+    url: https://investigate.africa/
+
+  - name: LivingWage.KE
+    url: https://livingwage.pd.co.ke/
+
+  - name: MAPIT
+    url: https://mapit.hurumap.org
+    icon: https://hurumap.org/static/img/icons/favicon.ico
+
+  - name: MaternalFigures
+    url: https://maternalfigures.com/
+
+  - name: openAFRICA
+    url: https://open.africa
+    icon: https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png
+
+  - name: openAFRICA API
+    url: https://bulk.openafrica.net/api
+
+  - name: outbreak.AFRICA
+    url: https://covid19.outbreak.africa
+    icon: https://covid19.outbreak.africa/favicon.ico
+
+  - name: PesaYetu
+    url: https://pesayetu.pesacheck.org/explore/ke
+    icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
+
+  - name: PFCA
+    url: https://dev.pfca.africa/
+    icon: https://dev.pfca.africa/wp-content/uploads/sites/3/2020/12/Pfca-logo-1.png
+
+  - name: Politwoops
+    url: https://politwoops.codeforkenya.org
+    icon: https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png
+
+  - name: PromiseTracker
+    url: https://promisetracker.dev.codeforafrica.org/
+
+  - name: sensors.AFRICA
+    url: https://sensors.africa
+    icon: https://sensors.africa/favicons/green/favicon.ico
+    maxResponseTime: 60000
+
+  - name: sensors.AFRICA - API
+    url: https://api.sensors.africa/docs
+    icon: https://sensors.africa/favicons/green/favicon.ico
+
+  - name: sensors.AFRICA - v2Map
+    url: https://v2.map.aq.sensors.africa/#4/-4.46/19.54
+    icon: https://sensors.africa/favicons/green/favicon.ico
+
+  - name: seaSensors.AFRICA (Coming Soon)
+    url: https://seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA
+    url: https://alpha.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: seaSensors.AFRICA - Map
+    url: https://map.seasensors.africa/
+    icon: https://seasensors.africa/images/logo-white-square.png
+
+  - name: sourceAFRICA
+    url: https://sourceafrica.net
+
+  - name: stormWatch.sensors.AFRICA (Coming Soon)
+    url: https://stormwatch.sensors.africa/
+    icon: https://stormwatch.sensors.africa/images/logo.png
+
+  - name: TaxClock.Kenya
+    url: https://taxclock.pesacheck.org/
+
+  - name: trafficked.AFRICA
+    url: https://trafficked.africa
+
+  - name: TrollTracker
+    url: https://trolltracker.investigate.africa/
+
+  - name: TrollTracker API
+    url: https://dev.investigate.africa/health
+
+  - name: ActNow API
+    url: https://actnow.dev.codeforafrica.org/health
+
+# https://upptime.js.org/docs/configuration#status-website
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  cname: status.codeforafrica.org
+  name: CfAFRICA Status
+  logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4
+
+assignees: # Users to assign downtime issues (optional)
+  - thepsalmist
+
+# https://upptime.js.org/docs/configuration#ci-schedule
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/30 * * * *"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
