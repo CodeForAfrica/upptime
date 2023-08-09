@@ -1,7 +1,7 @@
 url: https://greenalert.oxpeckers.org
-status: up
-code: 200
-responseTime: 753
-lastUpdated: 2023-08-08T23:02:33.007Z
+status: down
+code: 500
+responseTime: 641
+lastUpdated: 2023-08-09T05:02:26.797Z
 startTime: Mon Jul 17 2023 13:41:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
