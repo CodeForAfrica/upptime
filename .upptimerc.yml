@@ -48,6 +48,10 @@ sites:
     url: https://charter.africa
     icon: https://charter.africa/images/charter-logo.svg
 
+  - name: charterAFRICA - Media
+    url: https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg
+    icon: https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg
+    
   - name: DebunkBot
     url: https://debunkbot.dev.pesacheck.org
 
