@@ -21,7 +21,7 @@ sites:
     url: https://greenalert.oxpeckers.org
     icon: https://greenalert.oxpeckers.org/assets/img/favicon.ico
 
--   name: CodeForAfrica
+  - name: CodeForAfrica
     url: https://cfa.dev.codeforafrica.org
     icon: https://cfa.dev.codeforafrica.org/media/cfa-logo.svg
     
