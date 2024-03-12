@@ -55,6 +55,9 @@ sites:
   - name: charterAFRICA - Media
     url: https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg
     icon: https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg
+
+  - name: Data.Investigate.AFRICA
+    url: https://data.investigate.africa/
     
   - name: DebunkBot
     url: https://debunkbot.dev.pesacheck.org
