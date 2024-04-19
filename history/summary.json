@@ -1148,19 +1148,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
-    "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "84.71%",
+    "status": "down",
+    "uptime": "94.46%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "85.00%",
     "uptimeMonth": "92.41%",
-    "uptimeYear": "94.45%",
+    "uptimeYear": "94.46%",
     "time": 2409,
     "timeDay": 1223,
     "timeWeek": 4104,
     "timeMonth": 3690,
     "timeYear": 2409,
     "dailyMinutesDown": {
-      "2024-04-19": 57,
+      "2024-04-19": 58,
       "2024-04-18": 443,
       "2024-04-17": 194,
       "2024-04-16": 211,
@@ -1217,8 +1217,7 @@
       "2024-01-14": 41,
       "2024-01-10": 332,
       "2024-01-09": 1430,
-      "2024-01-05": 28,
-      "2024-01-02": 21
+      "2024-01-05": 28
     }
   },
   {
