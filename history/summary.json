@@ -88,7 +88,7 @@
     "timeDay": 655,
     "timeWeek": 692,
     "timeMonth": 757,
-    "timeYear": 743,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2024-04-04": 28,
       "2024-02-14": 29,
@@ -144,12 +144,12 @@
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 350,
     "timeDay": 297,
     "timeWeek": 327,
-    "timeMonth": 347,
+    "timeMonth": 339,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-06-17": 784,
@@ -239,7 +239,7 @@
     "timeDay": 1014,
     "timeWeek": 1084,
     "timeMonth": 984,
-    "timeYear": 760,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2024-04-09": 30,
       "2023-09-17": 60
@@ -260,7 +260,7 @@
     "timeDay": 333,
     "timeWeek": 370,
     "timeMonth": 356,
-    "timeYear": 348,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -278,7 +278,7 @@
     "timeDay": 612,
     "timeWeek": 668,
     "timeMonth": 601,
-    "timeYear": 815,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2024-04-09": 30,
       "2024-01-04": 36
@@ -358,7 +358,7 @@
     "timeDay": 531,
     "timeWeek": 610,
     "timeMonth": 678,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {}
   },
   {
@@ -371,7 +371,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 437,
     "timeWeek": 515,
@@ -396,7 +396,7 @@
     "timeDay": 156,
     "timeWeek": 153,
     "timeMonth": 142,
-    "timeYear": 139,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2024-04-13": 22,
       "2023-08-18": 60
@@ -417,7 +417,7 @@
     "timeDay": 99,
     "timeWeek": 122,
     "timeMonth": 134,
-    "timeYear": 125,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -435,7 +435,7 @@
     "timeDay": 778,
     "timeWeek": 915,
     "timeMonth": 951,
-    "timeYear": 958,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2024-04-25": 28,
       "2023-12-04": 332,
@@ -498,7 +498,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ng.hurumap.org.ico",
     "slug": "hur-umap-ng",
     "status": "up",
-    "uptime": "92.45%",
+    "uptime": "92.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -596,7 +596,7 @@
     "icon": "https://tanzania.hurumap.org/static/img/logo-white.png",
     "slug": "hur-umap-tanzania",
     "status": "up",
-    "uptime": "92.47%",
+    "uptime": "92.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -789,7 +789,7 @@
     "icon": "https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png",
     "slug": "hur-umap-zimbabwe",
     "status": "up",
-    "uptime": "92.43%",
+    "uptime": "92.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
@@ -848,7 +848,7 @@
     "timeDay": 500,
     "timeWeek": 508,
     "timeMonth": 763,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2023-09-17": 25
     }
@@ -868,7 +868,7 @@
     "timeDay": 458,
     "timeWeek": 525,
     "timeMonth": 540,
-    "timeYear": 613,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2023-09-17": 25
     }
@@ -988,7 +988,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "96.75%",
+    "uptimeYear": "96.76%",
     "time": 487,
     "timeDay": 412,
     "timeWeek": 468,
@@ -1048,7 +1048,7 @@
     "timeMonth": 187,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2024-07-17": 333
+      "2024-07-17": 443
     }
   },
   {
@@ -1083,12 +1083,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 964,
     "timeDay": 756,
     "timeWeek": 892,
     "timeMonth": 934,
-    "timeYear": 964,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2024-05-20": 30,
       "2024-02-05": 30,
@@ -1129,18 +1129,18 @@
     "icon": "https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png",
     "slug": "politwoops",
     "status": "down",
-    "uptime": "78.39%",
+    "uptime": "78.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.34%",
+    "uptimeYear": "78.32%",
     "time": 1619,
     "timeDay": 710,
     "timeWeek": 633,
     "timeMonth": 650,
-    "timeYear": 1619,
+    "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-07-17": 764,
+      "2024-07-17": 874,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -1233,7 +1233,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 765,
     "timeDay": 677,
     "timeWeek": 764,
@@ -1251,7 +1251,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 536,
     "timeDay": 440,
     "timeWeek": 518,
@@ -1266,19 +1266,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
-    "status": "down",
-    "uptime": "97.68%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "81.12%",
-    "uptimeMonth": "89.10%",
-    "uptimeYear": "97.68%",
-    "time": 2459,
-    "timeDay": 1275,
-    "timeWeek": 3741,
-    "timeMonth": 2913,
+    "status": "up",
+    "uptime": "97.66%",
+    "uptimeDay": "75.26%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "88.85%",
+    "uptimeYear": "97.66%",
+    "time": 2456,
+    "timeDay": 1177,
+    "timeWeek": 3673,
+    "timeMonth": 2889,
     "timeYear": 2459,
     "dailyMinutesDown": {
-      "2024-07-17": 188,
+      "2024-07-17": 297,
       "2024-07-16": 258,
       "2024-07-15": 455,
       "2024-07-14": 121,
@@ -1338,7 +1338,7 @@
     "timeDay": 97,
     "timeWeek": 125,
     "timeMonth": 121,
-    "timeYear": 137,
+    "timeYear": 138,
     "dailyMinutesDown": {}
   },
   {
@@ -1428,7 +1428,7 @@
     "timeDay": 95,
     "timeWeek": 113,
     "timeMonth": 118,
-    "timeYear": 136,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -1479,7 +1479,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 699,
     "timeDay": 555,
     "timeWeek": 628,
@@ -1504,7 +1504,7 @@
     "timeDay": 546,
     "timeWeek": 1074,
     "timeMonth": 738,
-    "timeYear": 594,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-07-11": 26,
       "2024-07-02": 543,
