@@ -129,6 +129,9 @@ sites:
   - name: openAFRICA API
     url: https://bulk.openafrica.net/api
 
+  - name: opencti.Investigate Africa
+    url: https://opencti.investigate.africa
+
   - name: outbreak.AFRICA
     url: https://covid19.outbreak.africa
     icon: https://covid19.outbreak.africa/favicon.ico
