@@ -376,7 +376,7 @@
     "timeDay": 437,
     "timeWeek": 515,
     "timeMonth": 570,
-    "timeYear": 575,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2024-01-04": 30
     }
@@ -948,7 +948,7 @@
     "timeDay": 408,
     "timeWeek": 471,
     "timeMonth": 1688,
-    "timeYear": 434,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2024-07-13": 30,
       "2024-07-08": 24,
@@ -993,7 +993,7 @@
     "timeDay": 412,
     "timeWeek": 468,
     "timeMonth": 820,
-    "timeYear": 486,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2024-07-13": 30,
       "2024-07-08": 24,
@@ -1037,11 +1037,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.investigate.africa.ico",
     "slug": "opencti-investigate-africa",
     "status": "up",
-    "uptime": "0.15%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.15%",
-    "uptimeMonth": "0.15%",
-    "uptimeYear": "0.15%",
+    "uptime": "11.64%",
+    "uptimeDay": "11.64%",
+    "uptimeWeek": "11.64%",
+    "uptimeMonth": "11.64%",
+    "uptimeYear": "11.64%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
@@ -1088,7 +1088,7 @@
     "timeDay": 756,
     "timeWeek": 892,
     "timeMonth": 934,
-    "timeYear": 956,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2024-05-20": 30,
       "2024-02-05": 30,
@@ -1129,18 +1129,18 @@
     "icon": "https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png",
     "slug": "politwoops",
     "status": "down",
-    "uptime": "78.34%",
+    "uptime": "78.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.27%",
+    "uptimeYear": "78.25%",
     "time": 1619,
     "timeDay": 710,
     "timeWeek": 633,
     "timeMonth": 650,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2024-07-17": 1116,
+      "2024-07-17": 1205,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -1256,7 +1256,7 @@
     "timeDay": 440,
     "timeWeek": 518,
     "timeMonth": 556,
-    "timeYear": 528,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2024-01-04": 30
     }
@@ -1266,19 +1266,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
-    "status": "up",
-    "uptime": "97.65%",
-    "uptimeDay": "71.23%",
-    "uptimeWeek": "78.88%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "97.64%",
+    "status": "down",
+    "uptime": "97.66%",
+    "uptimeDay": "71.16%",
+    "uptimeWeek": "78.87%",
+    "uptimeMonth": "88.58%",
+    "uptimeYear": "97.65%",
     "time": 2454,
     "timeDay": 1208,
     "timeWeek": 3615,
     "timeMonth": 2869,
     "timeYear": 2457,
     "dailyMinutesDown": {
-      "2024-07-17": 414,
+      "2024-07-17": 415,
       "2024-07-16": 258,
       "2024-07-15": 455,
       "2024-07-14": 121,
@@ -1319,8 +1319,7 @@
       "2024-04-23": 689,
       "2024-04-22": 1440,
       "2024-04-21": 811,
-      "2024-04-20": 114,
-      "2024-04-19": 59
+      "2024-04-20": 114
     }
   },
   {
