@@ -1037,18 +1037,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.investigate.africa.ico",
     "slug": "opencti-investigate-africa",
     "status": "up",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-17": 1
+      "2024-07-17": 2
     }
   },
   {
@@ -1140,7 +1140,7 @@
     "timeMonth": 635,
     "timeYear": 1624,
     "dailyMinutesDown": {
-      "2024-07-17": 432,
+      "2024-07-17": 433,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
