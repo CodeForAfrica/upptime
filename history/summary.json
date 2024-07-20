@@ -789,7 +789,7 @@
     "icon": "https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png",
     "slug": "hur-umap-zimbabwe",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
@@ -973,8 +973,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1103,
       "2023-07-23": 416,
-      "2023-07-22": 300,
-      "2023-07-21": 90
+      "2023-07-22": 300
     }
   },
   {
@@ -1026,8 +1025,7 @@
       "2023-07-25": 1440,
       "2023-07-24": 1100,
       "2023-07-23": 415,
-      "2023-07-22": 298,
-      "2023-07-21": 88
+      "2023-07-22": 298
     }
   },
   {
@@ -1036,11 +1034,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.investigate.africa.ico",
     "slug": "opencti-investigate-africa",
     "status": "up",
-    "uptime": "82.30%",
+    "uptime": "82.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "82.30%",
-    "uptimeMonth": "82.30%",
-    "uptimeYear": "82.30%",
+    "uptimeWeek": "82.45%",
+    "uptimeMonth": "82.45%",
+    "uptimeYear": "82.45%",
     "time": 268,
     "timeDay": 0,
     "timeWeek": 268,
@@ -1139,7 +1137,8 @@
     "timeMonth": 651,
     "timeYear": 1617,
     "dailyMinutesDown": {
-      "2024-07-19": 1413,
+      "2024-07-20": 5,
+      "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
