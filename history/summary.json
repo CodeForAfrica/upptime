@@ -971,8 +971,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1103,
-      "2023-07-23": 416
+      "2023-07-24": 1103
     }
   },
   {
@@ -1022,8 +1021,7 @@
       "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
-      "2023-07-24": 1100,
-      "2023-07-23": 415
+      "2023-07-24": 1100
     }
   },
   {
@@ -1032,11 +1030,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/opencti.investigate.africa.ico",
     "slug": "opencti-investigate-africa",
     "status": "up",
-    "uptime": "89.86%",
+    "uptime": "89.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.86%",
-    "uptimeMonth": "89.86%",
-    "uptimeYear": "89.86%",
+    "uptimeWeek": "89.91%",
+    "uptimeMonth": "89.91%",
+    "uptimeYear": "89.91%",
     "time": 268,
     "timeDay": 269,
     "timeWeek": 268,
@@ -1128,14 +1126,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.12%",
+    "uptimeYear": "77.11%",
     "time": 1611,
     "timeDay": 539,
     "timeWeek": 671,
     "timeMonth": 651,
     "timeYear": 1615,
     "dailyMinutesDown": {
-      "2024-07-21": 1415,
+      "2024-07-22": 5,
+      "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
@@ -1268,16 +1267,17 @@
     "status": "down",
     "uptime": "98.54%",
     "uptimeDay": "73.72%",
-    "uptimeWeek": "76.52%",
-    "uptimeMonth": "85.75%",
-    "uptimeYear": "98.52%",
+    "uptimeWeek": "76.22%",
+    "uptimeMonth": "85.68%",
+    "uptimeYear": "98.51%",
     "time": 2494,
     "timeDay": 5083,
     "timeWeek": 3105,
     "timeMonth": 3081,
     "timeYear": 2504,
     "dailyMinutesDown": {
-      "2024-07-21": 352,
+      "2024-07-22": 5,
+      "2024-07-21": 377,
       "2024-07-20": 247,
       "2024-07-19": 322,
       "2024-07-18": 203,
