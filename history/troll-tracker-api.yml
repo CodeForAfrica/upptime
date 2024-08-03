@@ -1,7 +1,7 @@
 url: https://dev.investigate.africa/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-02T23:03:24.088Z
+status: up
+code: 200
+responseTime: 1841
+lastUpdated: 2024-08-03T00:08:28.567Z
 startTime: 2023-07-17T13:44:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
