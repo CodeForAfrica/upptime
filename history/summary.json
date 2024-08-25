@@ -881,8 +881,7 @@
     "timeMonth": 361,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-06-17": 30,
-      "2023-08-26": 572
+      "2024-06-17": 30
     }
   },
   {
@@ -1109,7 +1108,8 @@
     "timeMonth": 669,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2024-08-24": 1414,
+      "2024-08-25": 6,
+      "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
@@ -1274,18 +1274,19 @@
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
     "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "82.45%",
-    "uptimeWeek": "67.42%",
-    "uptimeMonth": "83.63%",
-    "uptimeYear": "98.64%",
+    "uptime": "98.76%",
+    "uptimeDay": "80.26%",
+    "uptimeWeek": "67.11%",
+    "uptimeMonth": "83.55%",
+    "uptimeYear": "98.63%",
     "time": 3033,
     "timeDay": 6553,
     "timeWeek": 3976,
     "timeMonth": 4525,
     "timeYear": 3101,
     "dailyMinutesDown": {
-      "2024-08-24": 252,
+      "2024-08-25": 6,
+      "2024-08-24": 278,
       "2024-08-23": 345,
       "2024-08-22": 675,
       "2024-08-21": 558,
