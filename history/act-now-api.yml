@@ -1,7 +1,7 @@
 url: https://actnow.dev.codeforafrica.org/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-11T07:34:42.633Z
+status: up
+code: 200
+responseTime: 999
+lastUpdated: 2024-09-11T08:03:24.212Z
 startTime: 2023-07-17T13:44:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
