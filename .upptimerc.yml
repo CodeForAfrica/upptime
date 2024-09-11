@@ -192,12 +192,6 @@ sites:
   - name: TrollTracker
     url: https://trolltracker.investigate.africa/
 
-  - name: TrollTracker API
-    url: https://dev.investigate.africa/health
-
-  - name: ActNow API
-    url: https://actnow.dev.codeforafrica.org/health
-
 # https://upptime.js.org/docs/configuration#status-website
 status-website:
   cname: status.codeforafrica.org
