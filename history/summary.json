@@ -244,8 +244,7 @@
     "timeYear": 859,
     "dailyMinutesDown": {
       "2024-08-30": 32,
-      "2024-04-09": 30,
-      "2023-09-17": 60
+      "2024-04-09": 30
     }
   },
   {
@@ -850,9 +849,7 @@
     "timeWeek": 1060,
     "timeMonth": 622,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2023-09-17": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "investigate.AFRICA",
@@ -870,9 +867,7 @@
     "timeWeek": 724,
     "timeMonth": 564,
     "timeYear": 597,
-    "dailyMinutesDown": {
-      "2023-09-17": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LivingWage.KE",
@@ -978,7 +973,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bulk.openafrica.net.ico",
     "slug": "open-africa-api",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.60%",
@@ -1059,8 +1054,7 @@
     "timeMonth": 1272,
     "timeYear": 1248,
     "dailyMinutesDown": {
-      "2024-06-27": 19,
-      "2023-09-17": 25
+      "2024-06-27": 19
     }
   },
   {
@@ -1088,8 +1082,7 @@
       "2024-01-04": 30,
       "2023-12-08": 286,
       "2023-10-25": 31,
-      "2023-09-18": 363,
-      "2023-09-17": 657
+      "2023-09-18": 363
     }
   },
   {
@@ -1108,9 +1101,7 @@
     "timeWeek": 558,
     "timeMonth": 415,
     "timeYear": 419,
-    "dailyMinutesDown": {
-      "2023-09-17": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Politwoops",
@@ -1122,14 +1113,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.78%",
+    "uptimeYear": "61.77%",
     "time": 1509,
     "timeDay": 0,
     "timeWeek": 575,
     "timeMonth": 651,
     "timeYear": 1440,
     "dailyMinutesDown": {
-      "2024-09-15": 1385,
+      "2024-09-16": 6,
+      "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 1440,
@@ -1321,18 +1313,19 @@
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "74.68%",
-    "uptimeWeek": "68.12%",
-    "uptimeMonth": "84.21%",
-    "uptimeYear": "98.68%",
+    "uptime": "98.86%",
+    "uptimeDay": "72.68%",
+    "uptimeWeek": "67.51%",
+    "uptimeMonth": "84.07%",
+    "uptimeYear": "98.67%",
     "time": 3162,
     "timeDay": 1381,
     "timeWeek": 3399,
     "timeMonth": 3967,
     "timeYear": 3278,
     "dailyMinutesDown": {
-      "2024-09-15": 338,
+      "2024-09-16": 6,
+      "2024-09-15": 393,
       "2024-09-14": 432,
       "2024-09-13": 491,
       "2024-09-12": 716,
