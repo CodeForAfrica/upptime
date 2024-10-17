@@ -456,7 +456,7 @@
     "icon": "https://hurumap.org/static/img/icons/favicon.ico",
     "slug": "hur-umap",
     "status": "up",
-    "uptime": "93.89%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1123,7 +1123,7 @@
     "timeMonth": 572,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-10-17": 485,
+      "2024-10-17": 519,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1346,19 +1346,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "74.44%",
-    "uptimeWeek": "70.03%",
-    "uptimeMonth": "84.73%",
+    "uptimeDay": "74.35%",
+    "uptimeWeek": "70.02%",
+    "uptimeMonth": "84.81%",
     "uptimeYear": "98.73%",
     "time": 3376,
     "timeDay": 2143,
     "timeWeek": 4784,
-    "timeMonth": 4244,
+    "timeMonth": 4213,
     "timeYear": 3555,
     "dailyMinutesDown": {
-      "2024-10-17": 182,
+      "2024-10-17": 183,
       "2024-10-16": 377,
       "2024-10-15": 557,
       "2024-10-14": 421,
@@ -1375,7 +1375,7 @@
       "2024-10-03": 283,
       "2024-10-02": 298,
       "2024-10-01": 451,
-      "2024-09-30": 295
+      "2024-09-30": 260
     }
   },
   {
