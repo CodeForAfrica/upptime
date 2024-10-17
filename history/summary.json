@@ -1112,7 +1112,7 @@
     "icon": "https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png",
     "slug": "politwoops",
     "status": "down",
-    "uptime": "62.72%",
+    "uptime": "62.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1123,7 +1123,7 @@
     "timeMonth": 572,
     "timeYear": 1250,
     "dailyMinutesDown": {
-      "2024-10-17": 11,
+      "2024-10-17": 49,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -1346,19 +1346,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-api",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "73.22%",
-    "uptimeWeek": "70.65%",
-    "uptimeMonth": "84.55%",
-    "uptimeYear": "98.71%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "73.14%",
+    "uptimeWeek": "70.64%",
+    "uptimeMonth": "84.79%",
+    "uptimeYear": "98.73%",
     "time": 3379,
     "timeDay": 1725,
     "timeWeek": 4821,
     "timeMonth": 4339,
     "timeYear": 3558,
     "dailyMinutesDown": {
-      "2024-10-17": 10,
+      "2024-10-17": 11,
       "2024-10-16": 377,
       "2024-10-15": 557,
       "2024-10-14": 421,
@@ -1376,7 +1376,7 @@
       "2024-10-02": 298,
       "2024-10-01": 451,
       "2024-09-30": 295,
-      "2024-09-29": 254
+      "2024-09-29": 145
     }
   },
   {
