@@ -1,7 +1,7 @@
 url: https://bulk.openafrica.net/api
-status: down
-code: 502
-responseTime: 349
-lastUpdated: 2024-10-30T21:03:59.621Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2024-10-30T21:33:41.715Z
 startTime: 2023-07-17T13:42:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
