@@ -1,7 +1,7 @@
 url: https://api.sensors.africa/docs
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-03T09:35:35.459Z
+status: up
+code: 200
+responseTime: 1101
+lastUpdated: 2024-11-03T11:04:08.242Z
 startTime: 2023-07-17T13:44:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
