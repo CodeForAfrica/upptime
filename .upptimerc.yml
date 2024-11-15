@@ -192,6 +192,9 @@ sites:
   - name: TrollTracker
     url: https://trolltracker.investigate.africa/
 
+  - name: chat.CodeForAfrica
+    url: https://chat.codeforafrica.org/
+
 # https://upptime.js.org/docs/configuration#status-website
 status-website:
   cname: status.codeforafrica.org
