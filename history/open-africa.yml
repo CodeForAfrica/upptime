@@ -1,7 +1,7 @@
 url: https://open.africa
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2024-11-16T07:03:52.568Z
+status: down
+code: 502
+responseTime: 258
+lastUpdated: 2024-11-16T22:03:50.626Z
 startTime: 2023-07-17T13:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
