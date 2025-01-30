@@ -1,7 +1,7 @@
 url: https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg
-status: up
-code: 200
-responseTime: 481
-lastUpdated: 2025-01-29T23:02:26.574Z
+status: down
+code: 502
+responseTime: 3524
+lastUpdated: 2025-01-30T09:02:48.078Z
 startTime: 2023-11-02T07:44:50.809Z
 generator: Upptime <https://github.com/upptime/upptime>
