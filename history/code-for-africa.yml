@@ -1,7 +1,7 @@
 url: https://cfa.dev.codeforafrica.org
-status: up
-code: 200
-responseTime: 1214
-lastUpdated: 2025-01-29T23:02:21.794Z
+status: down
+code: 502
+responseTime: 3607
+lastUpdated: 2025-01-30T09:02:31.058Z
 startTime: 2024-01-18T12:43:24.468Z
 generator: Upptime <https://github.com/upptime/upptime>
