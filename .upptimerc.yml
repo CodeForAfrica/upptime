@@ -77,9 +77,23 @@ sites:
   - name: HURUmap
     url: https://hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
     
   - name: HURUmap NG
     url: https://ng.hurumap.org
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
 
   - name: HURUmap - Kenya
     url: https://kenya.hurumap.org
@@ -122,15 +136,31 @@ sites:
   - name: MaternalFigures
     url: https://maternalfigures.com/
 
+
   - name: openAFRICA
     url: https://open.africa
     icon: https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
 
   - name: openAFRICA API
     url: https://bulk.openafrica.net/api
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
 
   - name: opencti.Investigate Africa
     url: https://opencti.investigate.africa
+
 
   - name: outbreak.AFRICA
     url: https://covid19.outbreak.africa
@@ -139,6 +169,13 @@ sites:
   - name: PesaYetu
     url: https://pesayetu.pesacheck.org/explore/ke
     icon: https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
 
   - name: PFCA
     url: https://dev.pfca.africa/
@@ -159,6 +196,13 @@ sites:
   - name: sensors.AFRICA - API
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicons/green/favicon.ico
+    expectedStatusCodes:
+      - 200   
+      - 201   
+      - 301   
+      - 302   
+      - 307   # Temporary Redirect (POST)
+      - 308 
 
   - name: sensors.AFRICA - v2Map
     url: https://v2.map.aq.sensors.africa/#4/-4.46/19.54
