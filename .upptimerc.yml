@@ -81,9 +81,6 @@ sites:
       - 200   
       - 201   
       - 301   
-      - 302   
-      - 307   # Temporary Redirect (POST)
-      - 308 
     
   - name: HURUmap NG
     url: https://ng.hurumap.org
@@ -91,9 +88,6 @@ sites:
       - 200   
       - 201   
       - 301   
-      - 302   
-      - 307   # Temporary Redirect (POST)
-      - 308 
 
   - name: HURUmap - Kenya
     url: https://kenya.hurumap.org
