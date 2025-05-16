@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 436,
     "timeDay": 0,
-    "timeWeek": 542,
+    "timeWeek": 563,
     "timeMonth": 537,
     "timeYear": 529,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 0,
-    "timeWeek": 177,
+    "timeWeek": 184,
     "timeMonth": 181,
     "timeYear": 171,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 792,
     "timeDay": 0,
-    "timeWeek": 882,
+    "timeWeek": 914,
     "timeMonth": 873,
     "timeYear": 810,
     "dailyMinutesDown": {}
@@ -69,7 +69,7 @@
     "uptimeYear": "100.00%",
     "time": 702,
     "timeDay": 0,
-    "timeWeek": 771,
+    "timeWeek": 759,
     "timeMonth": 771,
     "timeYear": 713,
     "dailyMinutesDown": {}
@@ -105,7 +105,7 @@
     "uptimeYear": "99.94%",
     "time": 1325,
     "timeDay": 0,
-    "timeWeek": 1564,
+    "timeWeek": 1582,
     "timeMonth": 1534,
     "timeYear": 1406,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.98%",
     "time": 343,
     "timeDay": 0,
-    "timeWeek": 396,
+    "timeWeek": 418,
     "timeMonth": 367,
     "timeYear": 347,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "98.87%",
     "time": 388,
     "timeDay": 0,
-    "timeWeek": 360,
+    "timeWeek": 372,
     "timeMonth": 359,
     "timeYear": 404,
     "dailyMinutesDown": {
@@ -178,7 +178,7 @@
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 0,
-    "timeWeek": 369,
+    "timeWeek": 388,
     "timeMonth": 358,
     "timeYear": 338,
     "dailyMinutesDown": {
@@ -198,7 +198,7 @@
     "uptimeYear": "100.00%",
     "time": 346,
     "timeDay": 0,
-    "timeWeek": 385,
+    "timeWeek": 405,
     "timeMonth": 369,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -319,18 +319,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/debunkbot.dev.pesacheck.org.ico",
     "slug": "debunk-bot",
     "status": "down",
-    "uptime": "96.15%",
+    "uptime": "96.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.82%",
-    "uptimeYear": "92.95%",
+    "uptimeMonth": "17.67%",
+    "uptimeYear": "92.94%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 784,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-05-15": 1383,
+      "2025-05-16": 6,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1024,7 +1025,8 @@
     "timeMonth": 597,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-05-15": 1384,
+      "2025-05-16": 7,
+      "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
@@ -1387,8 +1389,7 @@
       "2024-05-20": 1440,
       "2024-05-19": 1440,
       "2024-05-18": 1440,
-      "2024-05-17": 1440,
-      "2024-05-16": 1440
+      "2024-05-17": 1440
     }
   },
   {
