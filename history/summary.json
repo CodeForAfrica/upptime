@@ -322,15 +322,15 @@
     "uptime": "96.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.67%",
-    "uptimeYear": "92.94%",
+    "uptimeMonth": "17.47%",
+    "uptimeYear": "92.92%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 784,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-05-16": 6,
+      "2025-05-16": 93,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
@@ -736,18 +736,19 @@
     "url": "https://open.africa",
     "icon": "https://cloud.githubusercontent.com/assets/877919/14067805/7e3ff5ae-f476-11e5-88eb-059d88816232.png",
     "slug": "open-africa",
-    "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "98.45%",
+    "status": "down",
+    "uptime": "94.98%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "90.77%",
-    "time": 565,
+    "uptimeYear": "90.80%",
+    "time": 566,
     "timeDay": 528,
     "timeWeek": 520,
     "timeMonth": 1106,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2025-05-16": 2,
       "2025-05-15": 58,
       "2025-05-12": 30,
       "2025-05-10": 70,
@@ -803,7 +804,7 @@
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1184,
-      "2025-02-12": 266
+      "2025-02-12": 86
     }
   },
   {
@@ -811,10 +812,10 @@
     "url": "https://bulk.openafrica.net/api",
     "icon": "https://icons.duckduckgo.com/ip3/bulk.openafrica.net.ico",
     "slug": "open-africa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "96.47%",
-    "uptimeDay": "96.05%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "93.53%",
     "time": 636,
@@ -823,6 +824,7 @@
     "timeMonth": 1057,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2025-05-16": 1,
       "2025-05-15": 57,
       "2025-05-12": 30,
       "2025-05-10": 40,
@@ -899,8 +901,7 @@
       "2024-11-03": 33,
       "2024-11-02": 41,
       "2024-10-31": 64,
-      "2024-10-30": 30,
-      "2024-10-23": 4
+      "2024-10-30": 30
     }
   },
   {
@@ -1025,7 +1026,7 @@
     "timeMonth": 597,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2025-05-16": 7,
+      "2025-05-16": 94,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
