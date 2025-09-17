@@ -1,7 +1,7 @@
 url: https://sensors.africa
-status: down
-code: 502
-responseTime: 3550
-lastUpdated: 2025-09-17T08:04:45.891Z
+status: up
+code: 200
+responseTime: 666
+lastUpdated: 2025-09-17T08:37:26.265Z
 startTime: 2023-07-17T13:44:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
