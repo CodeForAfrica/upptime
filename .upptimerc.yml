@@ -29,6 +29,10 @@ sites:
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
 
+  - name: civicSIGNAL - Blog
+    url: https://research.civicsignal.africa/
+    icon: https://research.civicsignal.africa/favicon-32x32.png
+
   - name: civicSIGNAL - Explorer
     url: https://explorer.civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
