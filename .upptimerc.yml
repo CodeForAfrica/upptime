@@ -151,6 +151,10 @@ sites:
   - name: PromiseTracker
     url: https://promisetracker.dev.codeforafrica.org/
 
+  - name: Roboshield 
+    url: https://roboshield.trustlab.africa/
+    icon: https://roboshield.trustlab.africa/favicon-32x32.png
+    
   - name: sensors.AFRICA
     url: https://sensors.africa
     icon: https://sensors.africa/favicons/green/favicon.ico
@@ -191,7 +195,11 @@ sites:
 
   - name: TrollTracker
     url: https://trolltracker.investigate.africa/
-
+    
+  - name: Trustlab
+    url: https://trustlab.africa
+    icon: https://trustlab.africa/favicon-32x32.png
+    
   - name: chat.CodeForAfrica
     url: https://chat.codeforafrica.org/
 
