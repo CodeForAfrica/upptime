@@ -6,9 +6,6 @@ sites:
   - name: academy.AFRICA
     url: https://academy.africa/
 
-  - name: commons.AFRICA
-    url: https://commons.africa/
-
   - name: AlertME - Kenya
     url: https://greenalert.codeforkenya.org
     icon: https://greenalert.codeforkenya.org/assets/img/favicon.ico
@@ -20,6 +17,32 @@ sites:
   - name: AlertME - South Africa
     url: https://greenalert.oxpeckers.org
     icon: https://greenalert.oxpeckers.org/assets/img/favicon.ico
+
+  - name: CivicPatterns
+    url: https://civicpatterns.github.io
+
+  - name: CivicSignal
+    url: https://civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: CivicSignal - Explorer
+    url: https://explorer.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: CivicSignal - Research
+    url: https://research.civicsignal.africa/
+    icon: https://research.civicsignal.africa/favicon-32x32.png
+
+  - name: CivicSignal - Sources
+    url: https://sources.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: CivicSignal - Topics
+    url: https://topics.civicsignal.africa
+    icon: https://civicsignal.africa/static/img/logo.png
+
+  - name: CivicTechFund Africa
+    url: https://civictechfund.africa/
     
   - name: Code for Africa
     url: https://cfa.dev.codeforafrica.org
@@ -27,29 +50,9 @@ sites:
     
   - name: Code for Africa - Chat
     url: https://chat.codeforafrica.org
-    
-  - name: civicSIGNAL
-    url: https://civicsignal.africa
-    icon: https://civicsignal.africa/static/img/logo.png
 
-  - name: civicSIGNAL - Blog
-    url: https://research.civicsignal.africa/
-    icon: https://research.civicsignal.africa/favicon-32x32.png
-
-  - name: civicSIGNAL - Explorer
-    url: https://explorer.civicsignal.africa
-    icon: https://civicsignal.africa/static/img/logo.png
-
-  - name: civicSIGNAL - Sources
-    url: https://sources.civicsignal.africa
-    icon: https://civicsignal.africa/static/img/logo.png
-
-  - name: civicSIGNAL - Topics
-    url: https://topics.civicsignal.africa
-    icon: https://civicsignal.africa/static/img/logo.png
-
-  - name: Civic Tech Fund Africa
-    url: https://civictechfund.africa/
+  - name: commons.AFRICA
+    url: https://commons.africa
 
   - name: connectedAFRICA
     url: https://data.connectedafrica.net
@@ -66,7 +69,7 @@ sites:
   - name: DebunkBot
     url: https://debunkbot.dev.pesacheck.org
 
-  - name: DOMINION
+  - name: Dominion
     url: https://dominion.africa
     icon: https://dominion.africa/favicon.ico
     maxResponseTime: 60000
@@ -81,12 +84,10 @@ sites:
   - name: HURUGraphQL
     url: https://graphql.hurumap.org/graphiql
 
+  # HURUmap (V1)
   - name: HURUmap
     url: https://hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
-    
-  - name: HURUmap NG
-    url: https://ng.hurumap.org
 
   - name: HURUmap - Kenya
     url: https://kenya.hurumap.org
@@ -112,6 +113,10 @@ sites:
     url: https://zimbabwe.hurumap.org
     icon: https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png
 
+  # HURUmap NG (V2)
+  - name: HURUmap NG
+    url: https://ng.hurumap.org
+
   - name: innovateAFRICA
     url: https://innovateafrica.fund/
     icon: https://innovateafrica.fund/wp-content/uploads/2016/05/White.jpg
@@ -119,10 +124,10 @@ sites:
   - name: investigate.AFRICA
     url: https://investigate.africa/
 
-  - name: LivingWage.KE
+  - name: Living Wage - Kenya
     url: https://livingwage.pd.co.ke/
 
-  - name: MAPIT
+  - name: MapIt
     url: https://mapit.hurumap.org
     icon: https://hurumap.org/static/img/icons/favicon.ico
 
@@ -135,13 +140,22 @@ sites:
 
   - name: openAFRICA API
     url: https://bulk.openafrica.net/api
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 301
+      - 302
+      - 307
+      - 308
 
-  - name: opencti.Investigate Africa
+  - name: OpenCTI
     url: https://opencti.investigate.africa
 
   - name: outbreak.AFRICA
     url: https://covid19.outbreak.africa
-    icon: https://covid19.outbreak.africa/favicon.ico
+
+  - name: PesaCheck
+    url: https://pesacheck.org
 
   - name: PesaYetu
     url: https://pesayetu.pesacheck.org/explore/ke
@@ -158,7 +172,7 @@ sites:
   - name: PromiseTracker
     url: https://promisetracker.dev.codeforafrica.org/
 
-  - name: Roboshield 
+  - name: RoboShield 
     url: https://roboshield.trustlab.africa/
     icon: https://roboshield.trustlab.africa/favicon-32x32.png
     
@@ -167,11 +181,11 @@ sites:
     icon: https://sensors.africa/favicons/green/favicon.ico
     maxResponseTime: 60000
 
-  - name: sensors.AFRICA - API
+  - name: sensors.AFRICA - Docs
     url: https://api.sensors.africa/docs
     icon: https://sensors.africa/favicons/green/favicon.ico
 
-  - name: sensors.AFRICA - v2Map
+  - name: sensors.AFRICA - Map (v2)
     url: https://v2.map.aq.sensors.africa/#4/-4.46/19.54
     icon: https://sensors.africa/favicons/green/favicon.ico
 
@@ -179,7 +193,7 @@ sites:
     url: https://seasensors.africa/
     icon: https://seasensors.africa/images/logo-white-square.png
 
-  - name: seaSensors.AFRICA
+  - name: seaSensors.AFRICA (Alpha)
     url: https://alpha.seasensors.africa/
     icon: https://seasensors.africa/images/logo-white-square.png
 
@@ -194,23 +208,23 @@ sites:
     url: https://stormwatch.sensors.africa/
     icon: https://stormwatch.sensors.africa/images/logo.png
 
-  - name: TaxClock.Kenya
-    url: https://taxclock.pesacheck.org/
+  - name: TaxClock - Kenya
+    url: https://taxclock.pesacheck.org
 
   - name: trafficked.AFRICA
     url: https://trafficked.africa
 
-  - name: TrollTracker
+  - name: Troll Tracker
     url: https://trolltracker.investigate.africa/
     
-  - name: Trustlab
+  - name: TrustLab
     url: https://trustlab.africa
     icon: https://trustlab.africa/favicon-32x32.png
 
 # https://upptime.js.org/docs/configuration#status-website
 status-website:
   cname: status.codeforafrica.org
-  name: CfAFRICA Status
+  name: Code for Africa Status
   logoUrl: https://avatars0.githubusercontent.com/u/2786364?s=200&v=4
 
 assignees: # Users to assign downtime issues (optional)
