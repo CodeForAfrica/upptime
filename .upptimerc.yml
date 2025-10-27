@@ -25,6 +25,9 @@ sites:
     url: https://cfa.dev.codeforafrica.org
     icon: https://cfa.dev.codeforafrica.org/media/cfa-logo.svg
     
+  - name: Code for Africa - Chat
+    url: https://chat.codeforafrica.org
+    
   - name: civicSIGNAL
     url: https://civicsignal.africa
     icon: https://civicsignal.africa/static/img/logo.png
@@ -203,9 +206,6 @@ sites:
   - name: Trustlab
     url: https://trustlab.africa
     icon: https://trustlab.africa/favicon-32x32.png
-    
-  - name: chat.CodeForAfrica
-    url: https://chat.codeforafrica.org/
 
 # https://upptime.js.org/docs/configuration#status-website
 status-website:
