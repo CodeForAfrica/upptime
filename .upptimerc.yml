@@ -51,6 +51,10 @@ sites:
   - name: Code for Africa - Chat
     url: https://chat.codeforafrica.org
 
+  - name: Code for Africa - Dub
+    url: https://cfa.fyi
+    icon: https://assets.dub.co/favicons/favicon-32x32.png
+
   - name: commons.AFRICA
     url: https://commons.africa
 
