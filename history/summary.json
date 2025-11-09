@@ -397,7 +397,7 @@
     "uptime": "77.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.88%",
+    "uptimeMonth": "40.07%",
     "uptimeYear": "47.93%",
     "time": 710,
     "timeDay": 664,
@@ -1308,7 +1308,7 @@
     "timeMonth": 574,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-11-09": 8,
+      "2025-11-09": 94,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
@@ -1742,18 +1742,20 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-docs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 936,
     "timeDay": 897,
     "timeWeek": 970,
     "timeMonth": 936,
     "timeYear": 936,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-09": 2
+    }
   },
   {
     "name": "sensors.AFRICA - Map (v2)",
