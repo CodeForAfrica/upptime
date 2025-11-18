@@ -1,7 +1,7 @@
 url: https://opencti.investigate.africa
-status: down
-code: 500
-responseTime: 153
-lastUpdated: 2025-11-18T12:04:37.573Z
+status: up
+code: 200
+responseTime: 444
+lastUpdated: 2025-11-18T14:37:16.825Z
 startTime: 2025-10-27T07:33:17.781Z
 generator: Upptime <https://github.com/upptime/upptime>
