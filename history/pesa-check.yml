@@ -1,7 +1,7 @@
 url: https://pesacheck.org
-status: up
-code: 200
-responseTime: 929
-lastUpdated: 2025-12-09T23:03:47.675Z
+status: down
+code: 500
+responseTime: 286
+lastUpdated: 2025-12-10T04:41:37.711Z
 startTime: 2025-10-27T07:33:20.539Z
 generator: Upptime <https://github.com/upptime/upptime>
