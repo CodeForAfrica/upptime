@@ -13,7 +13,7 @@
     "time": 577,
     "timeDay": 735,
     "timeWeek": 703,
-    "timeMonth": 846,
+    "timeMonth": 848,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2025-12-04": 31,
@@ -37,7 +37,7 @@
     "time": 827,
     "timeDay": 965,
     "timeWeek": 906,
-    "timeMonth": 910,
+    "timeMonth": 902,
     "timeYear": 834,
     "dailyMinutesDown": {}
   },
@@ -55,7 +55,7 @@
     "time": 721,
     "timeDay": 826,
     "timeWeek": 826,
-    "timeMonth": 731,
+    "timeMonth": 726,
     "timeYear": 724,
     "dailyMinutesDown": {}
   },
@@ -98,7 +98,7 @@
     "time": 145,
     "timeDay": 215,
     "timeWeek": 232,
-    "timeMonth": 152,
+    "timeMonth": 150,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "time": 383,
     "timeDay": 476,
     "timeWeek": 450,
-    "timeMonth": 424,
+    "timeMonth": 421,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2025-10-08": 3,
@@ -139,7 +139,7 @@
     "time": 443,
     "timeDay": 767,
     "timeWeek": 510,
-    "timeMonth": 789,
+    "timeMonth": 797,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-18": 179,
@@ -168,7 +168,7 @@
     "time": 1159,
     "timeDay": 1401,
     "timeWeek": 1233,
-    "timeMonth": 1092,
+    "timeMonth": 1089,
     "timeYear": 1159,
     "dailyMinutesDown": {
       "2025-12-04": 59
@@ -188,7 +188,7 @@
     "time": 372,
     "timeDay": 403,
     "timeWeek": 479,
-    "timeMonth": 427,
+    "timeMonth": 424,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2025-10-08": 5,
@@ -202,7 +202,7 @@
     "icon": "https://civicsignal.africa/static/img/logo.png",
     "slug": "civic-signal-topics",
     "status": "up",
-    "uptime": "98.72%",
+    "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -234,7 +234,7 @@
     "time": 1110,
     "timeDay": 1472,
     "timeWeek": 1274,
-    "timeMonth": 1179,
+    "timeMonth": 1176,
     "timeYear": 1084,
     "dailyMinutesDown": {
       "2025-11-18": 184,
@@ -257,7 +257,7 @@
     "time": 1487,
     "timeDay": 1710,
     "timeWeek": 1626,
-    "timeMonth": 1669,
+    "timeMonth": 1668,
     "timeYear": 1526,
     "dailyMinutesDown": {
       "2025-12-04": 59,
@@ -298,7 +298,7 @@
     "time": 1595,
     "timeDay": 1704,
     "timeWeek": 1440,
-    "timeMonth": 1577,
+    "timeMonth": 1565,
     "timeYear": 1595,
     "dailyMinutesDown": {
       "2025-11-29": 32,
@@ -319,7 +319,7 @@
     "time": 204,
     "timeDay": 377,
     "timeWeek": 230,
-    "timeMonth": 286,
+    "timeMonth": 287,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-18": 153
@@ -331,7 +331,7 @@
     "icon": "https://investigativecenters.org/static/img/logo.jpg",
     "slug": "connected-africa",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -339,7 +339,7 @@
     "time": 376,
     "timeDay": 554,
     "timeWeek": 434,
-    "timeMonth": 396,
+    "timeMonth": 391,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-06-22": 1083,
@@ -360,7 +360,7 @@
     "time": 682,
     "timeDay": 1053,
     "timeWeek": 950,
-    "timeMonth": 844,
+    "timeMonth": 841,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-05-21": 35,
@@ -374,7 +374,7 @@
     "icon": "https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg",
     "slug": "charter-africa-media",
     "status": "up",
-    "uptime": "96.46%",
+    "uptime": "96.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -382,7 +382,7 @@
     "time": 521,
     "timeDay": 189,
     "timeWeek": 168,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-02-19": 32,
@@ -407,7 +407,7 @@
     "time": 728,
     "timeDay": 884,
     "timeWeek": 841,
-    "timeMonth": 888,
+    "timeMonth": 887,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-10-27": 423,
@@ -619,7 +619,7 @@
     "time": 660,
     "timeDay": 790,
     "timeWeek": 751,
-    "timeMonth": 717,
+    "timeMonth": 714,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-12-04": 33,
@@ -681,7 +681,7 @@
     "time": 201,
     "timeDay": 163,
     "timeWeek": 230,
-    "timeMonth": 209,
+    "timeMonth": 210,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2025-08-08": 12,
@@ -702,7 +702,7 @@
     "time": 154,
     "timeDay": 247,
     "timeWeek": 198,
-    "timeMonth": 203,
+    "timeMonth": 199,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -720,7 +720,7 @@
     "time": 1012,
     "timeDay": 1327,
     "timeWeek": 1146,
-    "timeMonth": 1334,
+    "timeMonth": 1335,
     "timeYear": 1027,
     "dailyMinutesDown": {
       "2025-10-10": 574,
@@ -741,7 +741,7 @@
     "time": 538,
     "timeDay": 556,
     "timeWeek": 609,
-    "timeMonth": 559,
+    "timeMonth": 557,
     "timeYear": 541,
     "dailyMinutesDown": {}
   },
@@ -777,7 +777,7 @@
     "time": 520,
     "timeDay": 1047,
     "timeWeek": 616,
-    "timeMonth": 553,
+    "timeMonth": 546,
     "timeYear": 526,
     "dailyMinutesDown": {}
   },
@@ -795,7 +795,7 @@
     "time": 515,
     "timeDay": 558,
     "timeWeek": 575,
-    "timeMonth": 517,
+    "timeMonth": 512,
     "timeYear": 517,
     "dailyMinutesDown": {}
   },
@@ -813,7 +813,7 @@
     "time": 515,
     "timeDay": 714,
     "timeWeek": 541,
-    "timeMonth": 516,
+    "timeMonth": 514,
     "timeYear": 517,
     "dailyMinutesDown": {}
   },
@@ -831,7 +831,7 @@
     "time": 500,
     "timeDay": 572,
     "timeWeek": 539,
-    "timeMonth": 526,
+    "timeMonth": 524,
     "timeYear": 504,
     "dailyMinutesDown": {}
   },
@@ -849,7 +849,7 @@
     "time": 499,
     "timeDay": 574,
     "timeWeek": 528,
-    "timeMonth": 506,
+    "timeMonth": 504,
     "timeYear": 502,
     "dailyMinutesDown": {}
   },
@@ -867,7 +867,7 @@
     "time": 524,
     "timeDay": 538,
     "timeWeek": 507,
-    "timeMonth": 482,
+    "timeMonth": 477,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2025-10-14": 89
@@ -887,7 +887,7 @@
     "time": 777,
     "timeDay": 740,
     "timeWeek": 846,
-    "timeMonth": 1291,
+    "timeMonth": 1305,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2025-12-04": 31,
@@ -911,7 +911,7 @@
     "time": 592,
     "timeDay": 749,
     "timeWeek": 709,
-    "timeMonth": 676,
+    "timeMonth": 673,
     "timeYear": 608,
     "dailyMinutesDown": {
       "2025-06-06": 11,
@@ -932,7 +932,7 @@
     "time": 638,
     "timeDay": 503,
     "timeWeek": 355,
-    "timeMonth": 594,
+    "timeMonth": 599,
     "timeYear": 638,
     "dailyMinutesDown": {}
   },
@@ -950,7 +950,7 @@
     "time": 469,
     "timeDay": 540,
     "timeWeek": 483,
-    "timeMonth": 472,
+    "timeMonth": 469,
     "timeYear": 469,
     "dailyMinutesDown": {}
   },
@@ -968,7 +968,7 @@
     "time": 790,
     "timeDay": 947,
     "timeWeek": 899,
-    "timeMonth": 813,
+    "timeMonth": 809,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2025-08-03": 309,
@@ -994,7 +994,7 @@
     "time": 646,
     "timeDay": 664,
     "timeWeek": 589,
-    "timeMonth": 490,
+    "timeMonth": 484,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-12-03": 36,
@@ -1068,7 +1068,7 @@
     "time": 694,
     "timeDay": 642,
     "timeWeek": 566,
-    "timeMonth": 453,
+    "timeMonth": 449,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-11-18": 211,
@@ -1177,7 +1177,7 @@
     "time": 421,
     "timeDay": 634,
     "timeWeek": 480,
-    "timeMonth": 434,
+    "timeMonth": 435,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-11-18": 153
@@ -1197,7 +1197,7 @@
     "time": 1313,
     "timeDay": 1395,
     "timeWeek": 1573,
-    "timeMonth": 1536,
+    "timeMonth": 1528,
     "timeYear": 1324,
     "dailyMinutesDown": {
       "2025-12-04": 30,
@@ -1213,15 +1213,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pesacheck.org.ico",
     "slug": "pesa-check",
     "status": "up",
-    "uptime": "73.59%",
+    "uptime": "73.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "59.42%",
-    "uptimeYear": "73.59%",
+    "uptimeYear": "73.72%",
     "time": 1322,
     "timeDay": 1276,
     "timeWeek": 1957,
-    "timeMonth": 1414,
+    "timeMonth": 1419,
     "timeYear": 1322,
     "dailyMinutesDown": {
       "2025-12-11": 21,
@@ -1257,7 +1257,7 @@
     "time": 1517,
     "timeDay": 26132,
     "timeWeek": 6300,
-    "timeMonth": 3734,
+    "timeMonth": 3797,
     "timeYear": 1587,
     "dailyMinutesDown": {
       "2025-12-12": 33,
@@ -1318,7 +1318,7 @@
     "time": 581,
     "timeDay": 839,
     "timeWeek": 755,
-    "timeMonth": 724,
+    "timeMonth": 720,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-12-04": 28,
@@ -1334,7 +1334,7 @@
     "icon": "https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png",
     "slug": "politwoops",
     "status": "down",
-    "uptime": "32.62%",
+    "uptime": "32.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1342,10 +1342,10 @@
     "time": 603,
     "timeDay": 659,
     "timeWeek": 648,
-    "timeMonth": 610,
+    "timeMonth": 604,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-12-13": 93,
+      "2025-12-13": 405,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -1726,7 +1726,7 @@
     "time": 807,
     "timeDay": 899,
     "timeWeek": 857,
-    "timeMonth": 868,
+    "timeMonth": 867,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2025-12-04": 59,
@@ -1748,7 +1748,7 @@
     "time": 973,
     "timeDay": 899,
     "timeWeek": 884,
-    "timeMonth": 1055,
+    "timeMonth": 1061,
     "timeYear": 973,
     "dailyMinutesDown": {
       "2025-12-04": 59
@@ -1782,19 +1782,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-docs",
-    "status": "down",
-    "uptime": "92.51%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "94.12%",
-    "uptimeMonth": "89.24%",
-    "uptimeYear": "92.51%",
-    "time": 996,
-    "timeDay": 1209,
-    "timeWeek": 1142,
-    "timeMonth": 1024,
-    "timeYear": 996,
+    "status": "up",
+    "uptime": "92.08%",
+    "uptimeDay": "76.24%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "89.16%",
+    "uptimeYear": "92.08%",
+    "time": 998,
+    "timeDay": 1185,
+    "timeWeek": 1148,
+    "timeMonth": 1021,
+    "timeYear": 998,
     "dailyMinutesDown": {
-      "2025-12-13": 2,
+      "2025-12-13": 311,
       "2025-12-12": 31,
       "2025-12-09": 188,
       "2025-12-08": 83,
@@ -1829,7 +1829,7 @@
     "time": 244,
     "timeDay": 256,
     "timeWeek": 215,
-    "timeMonth": 277,
+    "timeMonth": 278,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -1847,7 +1847,7 @@
     "time": 148,
     "timeDay": 235,
     "timeWeek": 221,
-    "timeMonth": 194,
+    "timeMonth": 193,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -1865,7 +1865,7 @@
     "time": 229,
     "timeDay": 200,
     "timeWeek": 258,
-    "timeMonth": 222,
+    "timeMonth": 221,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -1883,7 +1883,7 @@
     "time": 157,
     "timeDay": 258,
     "timeWeek": 210,
-    "timeMonth": 203,
+    "timeMonth": 200,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -1901,7 +1901,7 @@
     "time": 436,
     "timeDay": 205,
     "timeWeek": 144,
-    "timeMonth": 165,
+    "timeMonth": 161,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2025-09-02": 417,
@@ -1974,7 +1974,7 @@
     "time": 149,
     "timeDay": 250,
     "timeWeek": 247,
-    "timeMonth": 196,
+    "timeMonth": 194,
     "timeYear": 156,
     "dailyMinutesDown": {}
   },
@@ -1992,7 +1992,7 @@
     "time": 238,
     "timeDay": 363,
     "timeWeek": 255,
-    "timeMonth": 240,
+    "timeMonth": 236,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -2010,7 +2010,7 @@
     "time": 158,
     "timeDay": 429,
     "timeWeek": 225,
-    "timeMonth": 205,
+    "timeMonth": 203,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -2028,7 +2028,7 @@
     "time": 736,
     "timeDay": 829,
     "timeWeek": 831,
-    "timeMonth": 783,
+    "timeMonth": 777,
     "timeYear": 754,
     "dailyMinutesDown": {
       "2025-09-18": 603,
@@ -2051,7 +2051,7 @@
     "time": 1353,
     "timeDay": 5783,
     "timeWeek": 2848,
-    "timeMonth": 1547,
+    "timeMonth": 1557,
     "timeYear": 1353,
     "dailyMinutesDown": {
       "2025-12-04": 58
