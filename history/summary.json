@@ -608,7 +608,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.53%",
+    "uptimeYear": "95.54%",
     "time": 673,
     "timeDay": 0,
     "timeWeek": 677,
@@ -631,8 +631,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -1092,8 +1091,7 @@
       "2025-02-18": 716,
       "2025-02-15": 58,
       "2025-02-10": 58,
-      "2025-02-07": 62,
-      "2025-02-05": 60
+      "2025-02-07": 62
     }
   },
   {
@@ -1147,18 +1145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pesacheck.org.ico",
     "slug": "pesa-check",
     "status": "down",
-    "uptime": "81.14%",
+    "uptime": "81.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.88%",
-    "uptimeMonth": "78.29%",
-    "uptimeYear": "81.14%",
+    "uptimeWeek": "7.59%",
+    "uptimeMonth": "78.23%",
+    "uptimeYear": "81.12%",
     "time": 1972,
     "timeDay": 0,
     "timeWeek": 1825,
     "timeMonth": 2728,
     "timeYear": 1972,
     "dailyMinutesDown": {
-      "2026-02-04": 1422,
+      "2026-02-05": 11,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -1202,7 +1201,7 @@
     "uptime": "95.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.79%",
+    "uptimeMonth": "75.86%",
     "uptimeYear": "89.04%",
     "time": 1591,
     "timeDay": 0,
@@ -1312,7 +1311,8 @@
     "timeMonth": 581,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2026-02-04": 1422,
+      "2026-02-05": 11,
+      "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
@@ -1675,8 +1675,7 @@
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
-      "2025-02-06": 1440,
-      "2025-02-05": 1440
+      "2025-02-06": 1440
     }
   },
   {
@@ -1748,11 +1747,11 @@
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-docs",
     "status": "up",
-    "uptime": "93.31%",
+    "uptime": "93.32%",
     "uptimeDay": "97.69%",
     "uptimeWeek": "94.05%",
     "uptimeMonth": "94.33%",
-    "uptimeYear": "93.31%",
+    "uptimeYear": "93.32%",
     "time": 1319,
     "timeDay": 884,
     "timeWeek": 990,
