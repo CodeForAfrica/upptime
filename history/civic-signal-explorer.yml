@@ -1,7 +1,7 @@
 url: https://explorer.civicsignal.africa
-status: up
-code: 200
-responseTime: 354
-lastUpdated: 2026-02-17T23:06:32.358Z
+status: down
+code: 502
+responseTime: 6532
+lastUpdated: 2026-02-18T15:16:14.044Z
 startTime: 2023-07-17T13:41:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
