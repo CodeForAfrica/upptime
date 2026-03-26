@@ -160,6 +160,7 @@ sites:
 
   - name: PesaCheck
     url: https://pesacheck.org
+    maxResponseTime: 60000
 
   - name: PesaYetu
     url: https://pesayetu.pesacheck.org/explore/ke
