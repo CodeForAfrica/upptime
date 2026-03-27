@@ -1,7 +1,7 @@
 url: https://graphql.hurumap.org/graphiql
-status: down
-code: 502
-responseTime: 444
-lastUpdated: 2026-03-27T12:46:20.433Z
+status: up
+code: 200
+responseTime: 858
+lastUpdated: 2026-03-27T14:14:13.773Z
 startTime: 2023-07-17T13:41:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
