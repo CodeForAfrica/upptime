@@ -1097,7 +1097,7 @@
     "uptime": "59.92%",
     "uptimeDay": "97.71%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "71.70%",
+    "uptimeMonth": "71.82%",
     "uptimeYear": "59.92%",
     "time": 1474,
     "timeDay": 832,
@@ -1315,7 +1315,7 @@
     "timeMonth": 754,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2026-04-19": 15,
+      "2026-04-19": 70,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
@@ -1751,18 +1751,19 @@
     "url": "https://api.sensors.africa/docs",
     "icon": "https://sensors.africa/favicons/green/favicon.ico",
     "slug": "sensors-africa-docs",
-    "status": "up",
-    "uptime": "95.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.41%",
+    "status": "down",
+    "uptime": "95.69%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "95.39%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "95.64%",
+    "uptimeYear": "95.69%",
     "time": 1513,
     "timeDay": 1160,
     "timeWeek": 1091,
     "timeMonth": 1021,
     "timeYear": 1513,
     "dailyMinutesDown": {
+      "2026-04-19": 2,
       "2026-04-17": 153,
       "2026-04-15": 153,
       "2026-04-13": 156,
@@ -1848,8 +1849,7 @@
       "2025-12-07": 272,
       "2025-12-06": 18,
       "2025-12-05": 272,
-      "2025-12-03": 312,
-      "2025-12-01": 121
+      "2025-12-03": 312
     }
   },
   {
