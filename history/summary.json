@@ -387,11 +387,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/debunkbot.dev.pesacheck.org.ico",
     "slug": "debunk-bot",
     "status": "up",
-    "uptime": "81.24%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.50%",
+    "uptimeYear": "49.51%",
     "time": 723,
     "timeDay": 0,
     "timeWeek": 696,
@@ -581,8 +581,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -1089,18 +1088,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pesacheck.org.ico",
     "slug": "pesa-check",
     "status": "down",
-    "uptime": "60.79%",
-    "uptimeDay": "6.84%",
-    "uptimeWeek": "82.72%",
+    "uptime": "60.78%",
+    "uptimeDay": "2.50%",
+    "uptimeWeek": "82.10%",
     "uptimeMonth": "90.59%",
-    "uptimeYear": "60.79%",
+    "uptimeYear": "60.78%",
     "time": 1819,
     "timeDay": 20515,
     "timeWeek": 8426,
     "timeMonth": 3461,
     "timeYear": 1819,
     "dailyMinutesDown": {
-      "2026-04-25": 1342,
+      "2026-04-26": 18,
+      "2026-04-25": 1387,
       "2026-04-24": 345,
       "2026-04-22": 55,
       "2026-04-18": 33,
@@ -1200,7 +1200,7 @@
     "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.44%",
+    "uptimeMonth": "97.59%",
     "uptimeYear": "90.39%",
     "time": 1887,
     "timeDay": 0,
@@ -1313,7 +1313,8 @@
     "timeMonth": 764,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-04-25": 1395,
+      "2026-04-26": 18,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -1676,8 +1677,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
