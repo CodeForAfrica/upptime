@@ -391,7 +391,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.32%",
+    "uptimeYear": "50.33%",
     "time": 723,
     "timeDay": 0,
     "timeWeek": 649,
@@ -578,8 +578,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   },
   {
@@ -1088,11 +1087,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pesacheck.org.ico",
     "slug": "pesa-check",
     "status": "up",
-    "uptime": "60.76%",
-    "uptimeDay": "72.44%",
+    "uptime": "60.77%",
+    "uptimeDay": "76.85%",
     "uptimeWeek": "65.23%",
     "uptimeMonth": "91.87%",
-    "uptimeYear": "60.76%",
+    "uptimeYear": "60.77%",
     "time": 2103,
     "timeDay": 1062,
     "timeWeek": 8907,
@@ -1304,7 +1303,7 @@
     "icon": "https://politwoops.codeforkenya.org/assets/bird_16_gray-426a58da69022ae35134b058de1476cf1435109cda673faddc6f0ad2f35d7d8f.png",
     "slug": "politwoops",
     "status": "down",
-    "uptime": "28.23%",
+    "uptime": "28.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1315,7 +1314,8 @@
     "timeMonth": 571,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2026-04-28": 1400,
+      "2026-04-29": 23,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -1678,8 +1678,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   },
   {
