@@ -25,20 +25,20 @@
     "url": "https://greenalert.codeforkenya.org",
     "icon": "https://greenalert.codeforkenya.org/assets/img/favicon.ico",
     "slug": "alert-me-kenya",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "86.84%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "86.65%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.95%",
     "time": 820,
-    "timeDay": 625,
-    "timeWeek": 686,
-    "timeMonth": 695,
-    "timeYear": 835,
+    "timeDay": 466,
+    "timeWeek": 644,
+    "timeMonth": 684,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2026-06-06": 66,
-      "2026-06-09": 190
+      "2026-06-09": 192
     }
   },
   {
@@ -46,20 +46,20 @@
     "url": "https://yamayama.codefornigeria.org",
     "icon": "https://yamayama.codefornigeria.org/assets/img/favicon.ico",
     "slug": "alert-me-nigeria",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.95%",
-    "time": 702,
-    "timeDay": 574,
-    "timeWeek": 653,
+    "time": 701,
+    "timeDay": 592,
+    "timeWeek": 648,
     "timeMonth": 603,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2026-06-06": 59,
-      "2026-06-09": 182
+      "2026-06-09": 185
     }
   },
   {
@@ -67,16 +67,16 @@
     "url": "https://greenalert.oxpeckers.org",
     "icon": "https://greenalert.oxpeckers.org/assets/img/favicon.ico",
     "slug": "alert-me-south-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "87.64%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.91%",
     "time": 831,
-    "timeDay": 567,
-    "timeWeek": 735,
-    "timeMonth": 715,
+    "timeDay": 704,
+    "timeWeek": 747,
+    "timeMonth": 719,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-07-11": 44,
@@ -86,7 +86,7 @@
       "2025-10-22": 32,
       "2025-11-16": 96,
       "2026-06-06": 52,
-      "2026-06-09": 175
+      "2026-06-09": 178
     }
   },
   {
@@ -112,23 +112,23 @@
     "url": "https://civicsignal.africa",
     "icon": "https://civicsignal.africa/static/img/logo.png",
     "slug": "civic-signal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "88.32%",
-    "uptimeWeek": "97.88%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "97.86%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.95%",
     "time": 415,
-    "timeDay": 571,
-    "timeWeek": 441,
-    "timeMonth": 397,
+    "timeDay": 442,
+    "timeWeek": 427,
+    "timeMonth": 394,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2025-07-11": 31,
       "2025-10-08": 3,
       "2026-02-18": 30,
       "2026-06-06": 45,
-      "2026-06-09": 168
+      "2026-06-09": 171
     }
   },
   {
@@ -160,21 +160,21 @@
     "url": "https://research.civicsignal.africa/",
     "icon": "https://research.civicsignal.africa/favicon-32x32.png",
     "slug": "civic-signal-research",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "88.81%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "88.63%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.92%",
-    "time": 1434,
-    "timeDay": 949,
-    "timeWeek": 867,
-    "timeMonth": 1536,
-    "timeYear": 1434,
+    "time": 1432,
+    "timeDay": 921,
+    "timeWeek": 870,
+    "timeMonth": 1516,
+    "timeYear": 1432,
     "dailyMinutesDown": {
       "2025-12-04": 59,
       "2026-06-06": 38,
-      "2026-06-09": 161
+      "2026-06-09": 164
     }
   },
   {
@@ -182,23 +182,23 @@
     "url": "https://sources.civicsignal.africa",
     "icon": "https://civicsignal.africa/static/img/logo.png",
     "slug": "civic-signal-sources",
-    "status": "down",
+    "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "89.31%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.95%",
     "time": 400,
-    "timeDay": 465,
-    "timeWeek": 455,
-    "timeMonth": 393,
-    "timeYear": 412,
+    "timeDay": 416,
+    "timeWeek": 445,
+    "timeMonth": 392,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2025-07-11": 31,
       "2025-10-08": 5,
       "2026-02-18": 29,
       "2026-06-06": 31,
-      "2026-06-09": 154
+      "2026-06-09": 157
     }
   },
   {
@@ -206,24 +206,24 @@
     "url": "https://topics.civicsignal.africa",
     "icon": "https://civicsignal.africa/static/img/logo.png",
     "slug": "civic-signal-topics",
-    "status": "down",
+    "status": "up",
     "uptime": "98.93%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.95%",
     "time": 420,
-    "timeDay": 412,
-    "timeWeek": 369,
-    "timeMonth": 358,
-    "timeYear": 406,
+    "timeDay": 363,
+    "timeWeek": 363,
+    "timeMonth": 357,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-06-30": 33,
       "2025-07-11": 31,
       "2025-10-08": 8,
       "2026-02-18": 29,
       "2026-06-06": 24,
-      "2026-06-09": 147
+      "2026-06-09": 149
     }
   },
   {
@@ -231,22 +231,22 @@
     "url": "https://civictechfund.africa/",
     "icon": "https://icons.duckduckgo.com/ip3/civictechfund.africa.ico",
     "slug": "civic-tech-fund-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "90.30%",
-    "uptimeWeek": "98.45%",
+    "uptimeDay": "90.11%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.92%",
     "time": 1076,
-    "timeDay": 1178,
-    "timeWeek": 1107,
-    "timeMonth": 1009,
+    "timeDay": 1016,
+    "timeWeek": 1079,
+    "timeMonth": 1004,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-11-18": 184,
       "2026-04-22": 57,
       "2026-06-06": 17,
-      "2026-06-09": 140
+      "2026-06-09": 142
     }
   },
   {
@@ -254,22 +254,22 @@
     "url": "https://cfa.dev.codeforafrica.org",
     "icon": "https://cfa.dev.codeforafrica.org/media/cfa-logo.svg",
     "slug": "code-for-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "90.79%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.95%",
-    "time": 1534,
-    "timeDay": 1915,
-    "timeWeek": 1703,
-    "timeMonth": 1502,
+    "time": 1533,
+    "timeDay": 1677,
+    "timeWeek": 1673,
+    "timeMonth": 1500,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2025-09-17": 33,
       "2025-12-04": 59,
       "2026-03-04": 22,
-      "2026-06-09": 133
+      "2026-06-09": 135
     }
   },
   {
@@ -277,19 +277,19 @@
     "url": "https://chat.codeforafrica.org",
     "icon": "https://icons.duckduckgo.com/ip3/chat.codeforafrica.org.ico",
     "slug": "code-for-africa-chat",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "91.28%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "98.73%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 456,
-    "timeDay": 637,
-    "timeWeek": 520,
-    "timeMonth": 467,
+    "timeDay": 538,
+    "timeWeek": 510,
+    "timeMonth": 466,
     "timeYear": 456,
     "dailyMinutesDown": {
-      "2026-06-09": 125
+      "2026-06-09": 128
     }
   },
   {
@@ -341,22 +341,22 @@
     "url": "https://data.connectedafrica.net",
     "icon": "https://investigativecenters.org/static/img/logo.jpg",
     "slug": "connected-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "91.78%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.55%",
     "time": 381,
-    "timeDay": 427,
-    "timeWeek": 377,
-    "timeMonth": 345,
-    "timeYear": 387,
+    "timeDay": 334,
+    "timeWeek": 360,
+    "timeMonth": 342,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2025-06-22": 1083,
       "2025-06-21": 1104,
       "2026-03-18": 33,
-      "2026-06-09": 118
+      "2026-06-09": 121
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "https://charter.africa",
     "icon": "https://charter.africa/images/charter-logo.svg",
     "slug": "charter-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 703,
-    "timeDay": 1073,
-    "timeWeek": 898,
-    "timeMonth": 878,
+    "timeDay": 905,
+    "timeWeek": 878,
+    "timeMonth": 874,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2026-06-09": 111
+      "2026-06-09": 114
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "https://charter.africa/media/charter-logo.svg",
     "icon": "https://charterafrica.prod.codeforafrica.org/media/charter-logo.svg",
     "slug": "charter-africa-media",
-    "status": "down",
+    "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "92.77%",
-    "uptimeWeek": "98.97%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
-    "time": 313,
-    "timeDay": 557,
-    "timeWeek": 479,
-    "timeMonth": 434,
-    "timeYear": 199,
+    "time": 312,
+    "timeDay": 481,
+    "timeWeek": 470,
+    "timeMonth": 433,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2026-06-09": 104
+      "2026-06-09": 107
     }
   },
   {
@@ -404,17 +404,17 @@
     "url": "https://debunkbot.dev.pesacheck.org",
     "icon": "https://icons.duckduckgo.com/ip3/debunkbot.dev.pesacheck.org.ico",
     "slug": "debunk-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "82.04%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "61.81%",
     "time": 764,
-    "timeDay": 1010,
-    "timeWeek": 1007,
-    "timeMonth": 1076,
-    "timeYear": 791,
+    "timeDay": 863,
+    "timeWeek": 970,
+    "timeMonth": 1064,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-10-27": 423,
       "2025-10-26": 1440,
@@ -556,7 +556,7 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
-      "2026-06-09": 97
+      "2026-06-09": 100
     }
   },
   {
@@ -564,20 +564,20 @@
     "url": "https://dominion.africa",
     "icon": "https://dominion.africa/favicon.ico",
     "slug": "dominion",
-    "status": "down",
+    "status": "up",
     "uptime": "96.10%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "93.58%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
-    "time": 693,
-    "timeDay": 874,
-    "timeWeek": 753,
-    "timeMonth": 647,
+    "time": 692,
+    "timeDay": 699,
+    "timeWeek": 724,
+    "timeMonth": 643,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-12-04": 33,
-      "2026-06-09": 90
+      "2026-06-09": 93
     }
   },
   {
@@ -666,19 +666,19 @@
     "url": "https://kenya.hurumap.org",
     "icon": "https://kenya.hurumap.org/static/img/logo-white.png",
     "slug": "hur-umap-kenya",
-    "status": "down",
+    "status": "up",
     "uptime": "97.39%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "99.15%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 537,
-    "timeDay": 669,
-    "timeWeek": 490,
+    "timeDay": 569,
+    "timeWeek": 488,
     "timeMonth": 475,
-    "timeYear": 543,
+    "timeYear": 542,
     "dailyMinutesDown": {
-      "2026-06-09": 83
+      "2026-06-09": 85
     }
   },
   {
@@ -704,19 +704,19 @@
     "url": "https://nigeria.hurumap.org",
     "icon": "https://nigeria.hurumap.org/static/img/logo-white.png",
     "slug": "hur-umap-nigeria",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "94.74%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 512,
-    "timeDay": 576,
-    "timeWeek": 500,
-    "timeMonth": 467,
+    "timeDay": 546,
+    "timeWeek": 502,
+    "timeMonth": 469,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2026-06-09": 76
+      "2026-06-09": 78
     }
   },
   {
@@ -724,19 +724,19 @@
     "url": "https://uganda.hurumap.org",
     "icon": "https://uganda.hurumap.org/static/img/logo-white.png",
     "slug": "hur-umap-uganda",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 522,
-    "timeDay": 572,
-    "timeWeek": 529,
-    "timeMonth": 471,
+    "timeDay": 534,
+    "timeWeek": 525,
+    "timeMonth": 472,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-06-09": 69
+      "2026-06-09": 71
     }
   },
   {
@@ -744,19 +744,19 @@
     "url": "https://zambia.hurumap.org",
     "icon": "https://zambia.hurumap.org/static/img/logo-white.png",
     "slug": "hur-umap-zambia",
-    "status": "down",
+    "status": "up",
     "uptime": "97.36%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 504,
-    "timeDay": 703,
-    "timeWeek": 537,
-    "timeMonth": 467,
+    "timeDay": 507,
+    "timeWeek": 509,
+    "timeMonth": 462,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2026-06-09": 62
+      "2026-06-09": 64
     }
   },
   {
@@ -764,19 +764,19 @@
     "url": "https://zimbabwe.hurumap.org",
     "icon": "https://zimbabwe.hurumap.org/static/img/logos/ulwazimap.png",
     "slug": "hur-umap-zimbabwe",
-    "status": "down",
+    "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 501,
-    "timeDay": 571,
-    "timeWeek": 475,
-    "timeMonth": 435,
+    "timeDay": 444,
+    "timeWeek": 455,
+    "timeMonth": 432,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-06-09": 54
+      "2026-06-09": 57
     }
   },
   {
@@ -784,21 +784,21 @@
     "url": "https://ng.hurumap.org",
     "icon": "https://icons.duckduckgo.com/ip3/ng.hurumap.org.ico",
     "slug": "hur-umap-ng",
-    "status": "down",
+    "status": "up",
     "uptime": "97.38%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
-    "time": 538,
-    "timeDay": 5871,
-    "timeWeek": 1468,
-    "timeMonth": 809,
+    "time": 539,
+    "timeDay": 3245,
+    "timeWeek": 1362,
+    "timeMonth": 803,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2025-10-14": 89,
       "2026-02-24": 30,
-      "2026-06-09": 47
+      "2026-06-09": 50
     }
   },
   {
@@ -869,19 +869,19 @@
     "url": "https://mapit.hurumap.org",
     "icon": "https://hurumap.org/static/img/icons/favicon.ico",
     "slug": "map-it",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 454,
-    "timeDay": 525,
-    "timeWeek": 463,
-    "timeMonth": 408,
+    "timeDay": 483,
+    "timeWeek": 460,
+    "timeMonth": 409,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-06-09": 40
+      "2026-06-09": 43
     }
   },
   {
@@ -889,21 +889,21 @@
     "url": "https://maternalfigures.com/",
     "icon": "https://icons.duckduckgo.com/ip3/maternalfigures.com.ico",
     "slug": "maternal-figures",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 830,
-    "timeDay": 1210,
-    "timeWeek": 1035,
-    "timeMonth": 838,
+    "timeDay": 952,
+    "timeWeek": 993,
+    "timeMonth": 833,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2025-08-03": 309,
       "2025-08-02": 57,
-      "2026-06-09": 33
+      "2026-06-09": 36
     }
   },
   {
@@ -1016,23 +1016,23 @@
     "url": "https://covid19.outbreak.africa",
     "icon": "https://icons.duckduckgo.com/ip3/covid19.outbreak.africa.ico",
     "slug": "outbreak-africa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.77%",
-    "time": 1403,
-    "timeDay": 2177,
-    "timeWeek": 1838,
-    "timeMonth": 1576,
-    "timeYear": 1454,
+    "time": 1404,
+    "timeDay": 1832,
+    "timeWeek": 1794,
+    "timeMonth": 1573,
+    "timeYear": 1455,
     "dailyMinutesDown": {
       "2025-10-09": 560,
       "2025-10-10": 544,
       "2025-12-04": 30,
       "2026-01-08": 39,
-      "2026-06-09": 26
+      "2026-06-09": 28
     }
   },
   {
@@ -1153,17 +1153,17 @@
     "url": "https://pesayetu.pesacheck.org/explore/ke",
     "icon": "https://pesayetu.pesacheck.org/static/img/pesayetu-header-logo.png",
     "slug": "pesa-yetu",
-    "status": "down",
+    "status": "up",
     "uptime": "95.81%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "91.48%",
     "time": 2003,
-    "timeDay": 2062,
-    "timeWeek": 3970,
-    "timeMonth": 3389,
-    "timeYear": 2289,
+    "timeDay": 1707,
+    "timeWeek": 3643,
+    "timeMonth": 3325,
+    "timeYear": 2287,
     "dailyMinutesDown": {
       "2025-06-26": 1056,
       "2025-06-25": 1440,
@@ -1223,7 +1223,7 @@
       "2026-03-30": 56,
       "2026-03-31": 42,
       "2026-04-30": 36,
-      "2026-06-09": 19
+      "2026-06-09": 21
     }
   },
   {
@@ -1265,7 +1265,7 @@
     "timeMonth": 350,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-06-09": 1376,
+      "2026-06-09": 1380,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
@@ -1637,21 +1637,21 @@
     "url": "https://promisetracker.dev.codeforafrica.org/",
     "icon": "https://icons.duckduckgo.com/ip3/promisetracker.dev.codeforafrica.org.ico",
     "slug": "promise-tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 810,
-    "timeDay": 1037,
-    "timeWeek": 794,
-    "timeMonth": 711,
-    "timeYear": 809,
+    "time": 809,
+    "timeDay": 763,
+    "timeWeek": 756,
+    "timeMonth": 704,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2025-09-17": 33,
       "2025-12-04": 59,
-      "2026-06-09": 7
+      "2026-06-09": 10
     }
   },
   {
