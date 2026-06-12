@@ -47,7 +47,11 @@ sites:
   - name: connectedAFRICA
     url: https://data.connectedafrica.net
     icon: https://investigativecenters.org/static/img/logo.jpg
-  
+
+  - name: connectedAFRICA - Statistics API
+    url: https://data.connectedafrica.net/api/2/statistics
+    icon: https://investigativecenters.org/static/img/logo.jpg
+
   - name: charterAFRICA
     url: https://charter.africa
     icon: https://charter.africa/images/charter-logo.svg
