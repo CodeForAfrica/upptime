@@ -753,10 +753,10 @@
     "slug": "hur-umap-uganda",
     "status": "up",
     "uptime": "97.44%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.97%",
     "time": 521,
     "timeDay": 504,
     "timeWeek": 514,
@@ -764,8 +764,7 @@
     "timeYear": 515,
     "dailyMinutesDown": {
       "2026-06-09": 71,
-      "2026-06-10": 104,
-      "2026-06-30": 11
+      "2026-06-10": 104
     }
   },
   {
@@ -1271,7 +1270,7 @@
     "timeMonth": 369,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2026-06-30": 19,
+      "2026-06-30": 30,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
