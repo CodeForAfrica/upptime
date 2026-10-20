@@ -1,4 +1,20 @@
-# [📈 Live Status](https://status.codeforafrica.org): <!--live status--> **🟧 Partial outage**
+# Legacy Upptime Monitor (No Longer in Use)
+
+This repository no longer powers Code for Africa's monitoring or public status
+page. It has been replaced by [ProbeView](https://github.com/CodeForAfrica/probeview)
+and [Grafana Synthetic Monitoring](https://codeforafrica.grafana.net/).
+
+- **Live status page:** https://status.codeforafrica.org/
+- **Status-page application:** https://github.com/CodeForAfrica/probeview
+- **Monitor configuration:** create and manage Synthetic Monitoring checks in Grafana.
+  ProbeView discovers these checks automatically; no service list needs updating
+  in ProbeView or this repository.
+
+The Upptime workflows are disabled. Do not re-enable them or add new monitors to
+`.upptimerc.yml`. Existing configuration, incidents, graphs, and the generated
+summary below are retained as historical records and do not represent live status.
+
+## Historical Upptime Summary
 
 This repository contains the open-source uptime monitor and status page for [Code for Africa (CfA)](https://codeforafrica.org), powered by [Upptime](https://github.com/upptime/upptime).
 
