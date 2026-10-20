@@ -55,6 +55,9 @@ sites:
     url: https://cfa.fyi
     icon: https://assets.dub.co/favicons/favicon-32x32.png
 
+  - name: Code for Africa - Opportunities
+    url: https://opportunities.codeforafrica.org/
+
   - name: commons.AFRICA
     url: https://commons.africa
 
